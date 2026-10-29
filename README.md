@@ -59,6 +59,15 @@ customers (21%) have negative lifetime profit. They destroy $267K, equal to 20% 
 | C | Low-cost, automated service; no expensive retention offers |
 | Loss-making | Tighten discount eligibility and set minimum order values; stop acquiring this profile through deep discounts |
 
+## Deliverables
+
+| File | Description |
+|---|---|
+| [`notebooks/abc_customer_profit_analysis.ipynb`](notebooks/abc_customer_profit_analysis.ipynb) | Complete analysis with outputs |
+| [`reports/ABC_Customer_Profit_Results.xlsx`](reports/ABC_Customer_Profit_Results.xlsx) | Excel workbook: summary sheet with key findings, plus group summary and the full customer list with lifetime profit and group |
+| [`reports/tables/customer_abc_classification.csv`](reports/tables/customer_abc_classification.csv) | Customer-level list, ready to load into a CRM or account plan |
+| [`reports/figures/`](reports/figures), [`reports/tables/`](reports/tables) | Charts (PNG) and result tables (CSV) |
+
 ## Repository Structure
 
 ```text
@@ -66,9 +75,10 @@ abc-customer-profit-analysis/
 ├── data/                    EcomSales, Product, Customer, Region tables and data dictionary
 ├── notebooks/               abc_customer_profit_analysis.ipynb (analysis with outputs)
 ├── reports/
+│   ├── ABC_Customer_Profit_Results.xlsx  (Excel results workbook)
 │   ├── figures/             concentration, income and occupation charts
-│   └── tables/              ABC group summary (CSV)
-├── scripts/run_notebook.py  re-executes the notebook
+│   └── tables/              ABC group summary and customer list (CSV)
+├── scripts/                 run_notebook.py, build_excel_report.py
 └── requirements.txt
 ```
 
@@ -76,7 +86,8 @@ abc-customer-profit-analysis/
 
 ```bash
 pip install -r requirements.txt
-python scripts/run_notebook.py
+python scripts/run_notebook.py        # re-run the analysis, refresh figures and tables
+python scripts/build_excel_report.py  # rebuild the Excel workbook
 ```
 
 ## Data
