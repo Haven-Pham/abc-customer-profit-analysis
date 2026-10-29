@@ -1,0 +1,3829 @@
+RegionCode,Country,Region,Market
+R0001,Afghanistan,Southern Asia,Asia Pacific
+R0002,Afghanistan,Southern Asia,Asia Pacific
+R0003,Afghanistan,Southern Asia,Asia Pacific
+R0004,Afghanistan,Southern Asia,Asia Pacific
+R0005,Albania,Southern Europe,Europe
+R0006,Albania,Southern Europe,Europe
+R0007,Albania,Southern Europe,Europe
+R0008,Albania,Southern Europe,Europe
+R0009,Albania,Southern Europe,Europe
+R0010,Algeria,North Africa,Africa
+R0011,Algeria,North Africa,Africa
+R0012,Algeria,North Africa,Africa
+R0013,Algeria,North Africa,Africa
+R0014,Algeria,North Africa,Africa
+R0015,Algeria,North Africa,Africa
+R0016,Algeria,North Africa,Africa
+R0017,Algeria,North Africa,Africa
+R0018,Algeria,North Africa,Africa
+R0019,Algeria,North Africa,Africa
+R0020,Algeria,North Africa,Africa
+R0021,Algeria,North Africa,Africa
+R0022,Algeria,North Africa,Africa
+R0023,Algeria,North Africa,Africa
+R0024,Algeria,North Africa,Africa
+R0025,Algeria,North Africa,Africa
+R0026,Algeria,North Africa,Africa
+R0027,Algeria,North Africa,Africa
+R0028,Algeria,North Africa,Africa
+R0029,Algeria,North Africa,Africa
+R0030,Algeria,North Africa,Africa
+R0031,Angola,Central Africa,Africa
+R0032,Angola,Central Africa,Africa
+R0033,Angola,Central Africa,Africa
+R0034,Angola,Central Africa,Africa
+R0035,Angola,Central Africa,Africa
+R0036,Angola,Central Africa,Africa
+R0037,Angola,Central Africa,Africa
+R0038,Argentina,South America,LATAM
+R0039,Argentina,South America,LATAM
+R0040,Argentina,South America,LATAM
+R0041,Argentina,South America,LATAM
+R0042,Argentina,South America,LATAM
+R0043,Argentina,South America,LATAM
+R0044,Argentina,South America,LATAM
+R0045,Argentina,South America,LATAM
+R0046,Argentina,South America,LATAM
+R0047,Argentina,South America,LATAM
+R0048,Argentina,South America,LATAM
+R0049,Argentina,South America,LATAM
+R0050,Argentina,South America,LATAM
+R0051,Argentina,South America,LATAM
+R0052,Argentina,South America,LATAM
+R0053,Argentina,South America,LATAM
+R0054,Argentina,South America,LATAM
+R0055,Argentina,South America,LATAM
+R0056,Argentina,South America,LATAM
+R0057,Argentina,South America,LATAM
+R0058,Argentina,South America,LATAM
+R0059,Argentina,South America,LATAM
+R0060,Argentina,South America,LATAM
+R0061,Argentina,South America,LATAM
+R0062,Argentina,South America,LATAM
+R0063,Argentina,South America,LATAM
+R0064,Argentina,South America,LATAM
+R0065,Argentina,South America,LATAM
+R0066,Argentina,South America,LATAM
+R0067,Argentina,South America,LATAM
+R0068,Argentina,South America,LATAM
+R0069,Argentina,South America,LATAM
+R0070,Argentina,South America,LATAM
+R0071,Argentina,South America,LATAM
+R0072,Armenia,Western Asia,Asia Pacific
+R0073,Australia,Oceania,Asia Pacific
+R0074,Australia,Oceania,Asia Pacific
+R0075,Australia,Oceania,Asia Pacific
+R0076,Australia,Oceania,Asia Pacific
+R0077,Australia,Oceania,Asia Pacific
+R0078,Australia,Oceania,Asia Pacific
+R0079,Australia,Oceania,Asia Pacific
+R0080,Australia,Oceania,Asia Pacific
+R0081,Australia,Oceania,Asia Pacific
+R0082,Australia,Oceania,Asia Pacific
+R0083,Australia,Oceania,Asia Pacific
+R0084,Australia,Oceania,Asia Pacific
+R0085,Australia,Oceania,Asia Pacific
+R0086,Australia,Oceania,Asia Pacific
+R0087,Australia,Oceania,Asia Pacific
+R0088,Australia,Oceania,Asia Pacific
+R0089,Australia,Oceania,Asia Pacific
+R0090,Australia,Oceania,Asia Pacific
+R0091,Australia,Oceania,Asia Pacific
+R0092,Australia,Oceania,Asia Pacific
+R0093,Australia,Oceania,Asia Pacific
+R0094,Australia,Oceania,Asia Pacific
+R0095,Australia,Oceania,Asia Pacific
+R0096,Australia,Oceania,Asia Pacific
+R0097,Australia,Oceania,Asia Pacific
+R0098,Australia,Oceania,Asia Pacific
+R0099,Australia,Oceania,Asia Pacific
+R0100,Australia,Oceania,Asia Pacific
+R0101,Australia,Oceania,Asia Pacific
+R0102,Australia,Oceania,Asia Pacific
+R0103,Australia,Oceania,Asia Pacific
+R0104,Australia,Oceania,Asia Pacific
+R0105,Australia,Oceania,Asia Pacific
+R0106,Australia,Oceania,Asia Pacific
+R0107,Australia,Oceania,Asia Pacific
+R0108,Australia,Oceania,Asia Pacific
+R0109,Australia,Oceania,Asia Pacific
+R0110,Australia,Oceania,Asia Pacific
+R0111,Australia,Oceania,Asia Pacific
+R0112,Australia,Oceania,Asia Pacific
+R0113,Australia,Oceania,Asia Pacific
+R0114,Australia,Oceania,Asia Pacific
+R0115,Australia,Oceania,Asia Pacific
+R0116,Australia,Oceania,Asia Pacific
+R0117,Australia,Oceania,Asia Pacific
+R0118,Australia,Oceania,Asia Pacific
+R0119,Australia,Oceania,Asia Pacific
+R0120,Australia,Oceania,Asia Pacific
+R0121,Australia,Oceania,Asia Pacific
+R0122,Australia,Oceania,Asia Pacific
+R0123,Australia,Oceania,Asia Pacific
+R0124,Australia,Oceania,Asia Pacific
+R0125,Australia,Oceania,Asia Pacific
+R0126,Australia,Oceania,Asia Pacific
+R0127,Australia,Oceania,Asia Pacific
+R0128,Australia,Oceania,Asia Pacific
+R0129,Australia,Oceania,Asia Pacific
+R0130,Australia,Oceania,Asia Pacific
+R0131,Australia,Oceania,Asia Pacific
+R0132,Australia,Oceania,Asia Pacific
+R0133,Australia,Oceania,Asia Pacific
+R0134,Australia,Oceania,Asia Pacific
+R0135,Australia,Oceania,Asia Pacific
+R0136,Austria,Western Europe,Europe
+R0137,Austria,Western Europe,Europe
+R0138,Austria,Western Europe,Europe
+R0139,Austria,Western Europe,Europe
+R0140,Austria,Western Europe,Europe
+R0141,Austria,Western Europe,Europe
+R0142,Austria,Western Europe,Europe
+R0143,Austria,Western Europe,Europe
+R0144,Austria,Western Europe,Europe
+R0145,Azerbaijan,Western Asia,Asia Pacific
+R0146,Bahrain,Western Asia,Asia Pacific
+R0147,Bangladesh,Southern Asia,Asia Pacific
+R0148,Bangladesh,Southern Asia,Asia Pacific
+R0149,Bangladesh,Southern Asia,Asia Pacific
+R0150,Bangladesh,Southern Asia,Asia Pacific
+R0151,Bangladesh,Southern Asia,Asia Pacific
+R0152,Bangladesh,Southern Asia,Asia Pacific
+R0153,Bangladesh,Southern Asia,Asia Pacific
+R0154,Bangladesh,Southern Asia,Asia Pacific
+R0155,Barbados,Caribbean,LATAM
+R0156,Belarus,Eastern Europe,Europe
+R0157,Belarus,Eastern Europe,Europe
+R0158,Belarus,Eastern Europe,Europe
+R0159,Belarus,Eastern Europe,Europe
+R0160,Belarus,Eastern Europe,Europe
+R0161,Belarus,Eastern Europe,Europe
+R0162,Belarus,Eastern Europe,Europe
+R0163,Belarus,Eastern Europe,Europe
+R0164,Belarus,Eastern Europe,Europe
+R0165,Belgium,Western Europe,Europe
+R0166,Belgium,Western Europe,Europe
+R0167,Belgium,Western Europe,Europe
+R0168,Belgium,Western Europe,Europe
+R0169,Belgium,Western Europe,Europe
+R0170,Belgium,Western Europe,Europe
+R0171,Belgium,Western Europe,Europe
+R0172,Belgium,Western Europe,Europe
+R0173,Belgium,Western Europe,Europe
+R0174,Belgium,Western Europe,Europe
+R0175,Belgium,Western Europe,Europe
+R0176,Belgium,Western Europe,Europe
+R0177,Belgium,Western Europe,Europe
+R0178,Belgium,Western Europe,Europe
+R0179,Belgium,Western Europe,Europe
+R0180,Belgium,Western Europe,Europe
+R0181,Belgium,Western Europe,Europe
+R0182,Belgium,Western Europe,Europe
+R0183,Belgium,Western Europe,Europe
+R0184,Belize,Central America,LATAM
+R0185,Benin,Western Africa,Africa
+R0186,Benin,Western Africa,Africa
+R0187,Benin,Western Africa,Africa
+R0188,Benin,Western Africa,Africa
+R0189,Benin,Western Africa,Africa
+R0190,Benin,Western Africa,Africa
+R0191,Benin,Western Africa,Africa
+R0192,Benin,Western Africa,Africa
+R0193,Bhutan,Southern Asia,Asia Pacific
+R0194,Bolivia,South America,LATAM
+R0195,Bolivia,South America,LATAM
+R0196,Bolivia,South America,LATAM
+R0197,Bolivia,South America,LATAM
+R0198,Bolivia,South America,LATAM
+R0199,Bolivia,South America,LATAM
+R0200,Bolivia,South America,LATAM
+R0201,Bolivia,South America,LATAM
+R0202,Bolivia,South America,LATAM
+R0203,Bosnia and Herzegovina,Southern Europe,Europe
+R0204,Bosnia and Herzegovina,Southern Europe,Europe
+R0205,Bosnia and Herzegovina,Southern Europe,Europe
+R0206,Botswana,Southern Africa,Africa
+R0207,Brazil,South America,LATAM
+R0208,Brazil,South America,LATAM
+R0209,Brazil,South America,LATAM
+R0210,Brazil,South America,LATAM
+R0211,Brazil,South America,LATAM
+R0212,Brazil,South America,LATAM
+R0213,Brazil,South America,LATAM
+R0214,Brazil,South America,LATAM
+R0215,Brazil,South America,LATAM
+R0216,Brazil,South America,LATAM
+R0217,Brazil,South America,LATAM
+R0218,Brazil,South America,LATAM
+R0219,Brazil,South America,LATAM
+R0220,Brazil,South America,LATAM
+R0221,Brazil,South America,LATAM
+R0222,Brazil,South America,LATAM
+R0223,Brazil,South America,LATAM
+R0224,Brazil,South America,LATAM
+R0225,Brazil,South America,LATAM
+R0226,Brazil,South America,LATAM
+R0227,Brazil,South America,LATAM
+R0228,Brazil,South America,LATAM
+R0229,Brazil,South America,LATAM
+R0230,Brazil,South America,LATAM
+R0231,Brazil,South America,LATAM
+R0232,Brazil,South America,LATAM
+R0233,Brazil,South America,LATAM
+R0234,Brazil,South America,LATAM
+R0235,Brazil,South America,LATAM
+R0236,Brazil,South America,LATAM
+R0237,Brazil,South America,LATAM
+R0238,Brazil,South America,LATAM
+R0239,Brazil,South America,LATAM
+R0240,Brazil,South America,LATAM
+R0241,Brazil,South America,LATAM
+R0242,Brazil,South America,LATAM
+R0243,Brazil,South America,LATAM
+R0244,Brazil,South America,LATAM
+R0245,Brazil,South America,LATAM
+R0246,Brazil,South America,LATAM
+R0247,Brazil,South America,LATAM
+R0248,Brazil,South America,LATAM
+R0249,Brazil,South America,LATAM
+R0250,Brazil,South America,LATAM
+R0251,Brazil,South America,LATAM
+R0252,Brazil,South America,LATAM
+R0253,Brazil,South America,LATAM
+R0254,Brazil,South America,LATAM
+R0255,Brazil,South America,LATAM
+R0256,Brazil,South America,LATAM
+R0257,Brazil,South America,LATAM
+R0258,Brazil,South America,LATAM
+R0259,Brazil,South America,LATAM
+R0260,Brazil,South America,LATAM
+R0261,Brazil,South America,LATAM
+R0262,Brazil,South America,LATAM
+R0263,Brazil,South America,LATAM
+R0264,Brazil,South America,LATAM
+R0265,Brazil,South America,LATAM
+R0266,Brazil,South America,LATAM
+R0267,Brazil,South America,LATAM
+R0268,Brazil,South America,LATAM
+R0269,Brazil,South America,LATAM
+R0270,Brazil,South America,LATAM
+R0271,Brazil,South America,LATAM
+R0272,Brazil,South America,LATAM
+R0273,Brazil,South America,LATAM
+R0274,Brazil,South America,LATAM
+R0275,Brazil,South America,LATAM
+R0276,Brazil,South America,LATAM
+R0277,Brazil,South America,LATAM
+R0278,Brazil,South America,LATAM
+R0279,Brazil,South America,LATAM
+R0280,Brazil,South America,LATAM
+R0281,Brazil,South America,LATAM
+R0282,Brazil,South America,LATAM
+R0283,Brazil,South America,LATAM
+R0284,Brazil,South America,LATAM
+R0285,Brazil,South America,LATAM
+R0286,Brazil,South America,LATAM
+R0287,Brazil,South America,LATAM
+R0288,Brazil,South America,LATAM
+R0289,Brazil,South America,LATAM
+R0290,Brazil,South America,LATAM
+R0291,Brazil,South America,LATAM
+R0292,Brazil,South America,LATAM
+R0293,Brazil,South America,LATAM
+R0294,Brazil,South America,LATAM
+R0295,Brazil,South America,LATAM
+R0296,Brazil,South America,LATAM
+R0297,Brazil,South America,LATAM
+R0298,Brazil,South America,LATAM
+R0299,Brazil,South America,LATAM
+R0300,Brazil,South America,LATAM
+R0301,Brazil,South America,LATAM
+R0302,Brazil,South America,LATAM
+R0303,Brazil,South America,LATAM
+R0304,Brazil,South America,LATAM
+R0305,Brazil,South America,LATAM
+R0306,Brazil,South America,LATAM
+R0307,Brazil,South America,LATAM
+R0308,Brazil,South America,LATAM
+R0309,Brazil,South America,LATAM
+R0310,Brazil,South America,LATAM
+R0311,Brazil,South America,LATAM
+R0312,Brazil,South America,LATAM
+R0313,Brazil,South America,LATAM
+R0314,Brazil,South America,LATAM
+R0315,Brazil,South America,LATAM
+R0316,Brazil,South America,LATAM
+R0317,Brazil,South America,LATAM
+R0318,Brazil,South America,LATAM
+R0319,Brazil,South America,LATAM
+R0320,Brazil,South America,LATAM
+R0321,Brazil,South America,LATAM
+R0322,Brazil,South America,LATAM
+R0323,Brazil,South America,LATAM
+R0324,Brazil,South America,LATAM
+R0325,Brazil,South America,LATAM
+R0326,Brazil,South America,LATAM
+R0327,Brazil,South America,LATAM
+R0328,Brazil,South America,LATAM
+R0329,Brazil,South America,LATAM
+R0330,Brazil,South America,LATAM
+R0331,Brazil,South America,LATAM
+R0332,Brazil,South America,LATAM
+R0333,Brazil,South America,LATAM
+R0334,Brazil,South America,LATAM
+R0335,Brazil,South America,LATAM
+R0336,Brazil,South America,LATAM
+R0337,Brazil,South America,LATAM
+R0338,Brazil,South America,LATAM
+R0339,Brazil,South America,LATAM
+R0340,Brazil,South America,LATAM
+R0341,Brazil,South America,LATAM
+R0342,Brazil,South America,LATAM
+R0343,Brazil,South America,LATAM
+R0344,Brazil,South America,LATAM
+R0345,Brazil,South America,LATAM
+R0346,Brazil,South America,LATAM
+R0347,Brazil,South America,LATAM
+R0348,Brazil,South America,LATAM
+R0349,Brazil,South America,LATAM
+R0350,Brazil,South America,LATAM
+R0351,Brazil,South America,LATAM
+R0352,Brazil,South America,LATAM
+R0353,Brazil,South America,LATAM
+R0354,Brazil,South America,LATAM
+R0355,Brazil,South America,LATAM
+R0356,Brazil,South America,LATAM
+R0357,Brazil,South America,LATAM
+R0358,Brazil,South America,LATAM
+R0359,Brazil,South America,LATAM
+R0360,Brazil,South America,LATAM
+R0361,Brazil,South America,LATAM
+R0362,Brazil,South America,LATAM
+R0363,Brazil,South America,LATAM
+R0364,Brazil,South America,LATAM
+R0365,Brazil,South America,LATAM
+R0366,Brazil,South America,LATAM
+R0367,Brazil,South America,LATAM
+R0368,Brazil,South America,LATAM
+R0369,Brazil,South America,LATAM
+R0370,Brazil,South America,LATAM
+R0371,Brazil,South America,LATAM
+R0372,Brazil,South America,LATAM
+R0373,Brazil,South America,LATAM
+R0374,Brazil,South America,LATAM
+R0375,Brazil,South America,LATAM
+R0376,Brazil,South America,LATAM
+R0377,Brazil,South America,LATAM
+R0378,Brazil,South America,LATAM
+R0379,Brazil,South America,LATAM
+R0380,Brazil,South America,LATAM
+R0381,Brazil,South America,LATAM
+R0382,Brazil,South America,LATAM
+R0383,Brazil,South America,LATAM
+R0384,Brazil,South America,LATAM
+R0385,Brazil,South America,LATAM
+R0386,Brazil,South America,LATAM
+R0387,Brazil,South America,LATAM
+R0388,Brazil,South America,LATAM
+R0389,Brazil,South America,LATAM
+R0390,Brazil,South America,LATAM
+R0391,Brazil,South America,LATAM
+R0392,Brazil,South America,LATAM
+R0393,Brazil,South America,LATAM
+R0394,Brazil,South America,LATAM
+R0395,Brazil,South America,LATAM
+R0396,Brazil,South America,LATAM
+R0397,Brazil,South America,LATAM
+R0398,Brazil,South America,LATAM
+R0399,Brazil,South America,LATAM
+R0400,Brazil,South America,LATAM
+R0401,Brazil,South America,LATAM
+R0402,Brazil,South America,LATAM
+R0403,Brazil,South America,LATAM
+R0404,Brazil,South America,LATAM
+R0405,Brazil,South America,LATAM
+R0406,Brazil,South America,LATAM
+R0407,Brazil,South America,LATAM
+R0408,Brazil,South America,LATAM
+R0409,Brazil,South America,LATAM
+R0410,Brazil,South America,LATAM
+R0411,Brazil,South America,LATAM
+R0412,Brazil,South America,LATAM
+R0413,Brazil,South America,LATAM
+R0414,Brazil,South America,LATAM
+R0415,Brazil,South America,LATAM
+R0416,Brazil,South America,LATAM
+R0417,Brazil,South America,LATAM
+R0418,Brazil,South America,LATAM
+R0419,Brazil,South America,LATAM
+R0420,Brazil,South America,LATAM
+R0421,Brazil,South America,LATAM
+R0422,Brazil,South America,LATAM
+R0423,Brazil,South America,LATAM
+R0424,Brazil,South America,LATAM
+R0425,Brazil,South America,LATAM
+R0426,Brazil,South America,LATAM
+R0427,Brazil,South America,LATAM
+R0428,Brazil,South America,LATAM
+R0429,Brazil,South America,LATAM
+R0430,Brazil,South America,LATAM
+R0431,Brazil,South America,LATAM
+R0432,Brazil,South America,LATAM
+R0433,Brazil,South America,LATAM
+R0434,Brazil,South America,LATAM
+R0435,Brazil,South America,LATAM
+R0436,Brazil,South America,LATAM
+R0437,Brazil,South America,LATAM
+R0438,Brazil,South America,LATAM
+R0439,Brazil,South America,LATAM
+R0440,Brazil,South America,LATAM
+R0441,Brazil,South America,LATAM
+R0442,Brazil,South America,LATAM
+R0443,Brazil,South America,LATAM
+R0444,Brazil,South America,LATAM
+R0445,Brazil,South America,LATAM
+R0446,Brazil,South America,LATAM
+R0447,Brazil,South America,LATAM
+R0448,Brazil,South America,LATAM
+R0449,Brazil,South America,LATAM
+R0450,Brazil,South America,LATAM
+R0451,Brazil,South America,LATAM
+R0452,Brazil,South America,LATAM
+R0453,Brazil,South America,LATAM
+R0454,Brazil,South America,LATAM
+R0455,Brazil,South America,LATAM
+R0456,Brazil,South America,LATAM
+R0457,Brazil,South America,LATAM
+R0458,Brazil,South America,LATAM
+R0459,Brazil,South America,LATAM
+R0460,Bulgaria,Eastern Europe,Europe
+R0461,Bulgaria,Eastern Europe,Europe
+R0462,Bulgaria,Eastern Europe,Europe
+R0463,Bulgaria,Eastern Europe,Europe
+R0464,Bulgaria,Eastern Europe,Europe
+R0465,Bulgaria,Eastern Europe,Europe
+R0466,Bulgaria,Eastern Europe,Europe
+R0467,Bulgaria,Eastern Europe,Europe
+R0468,Bulgaria,Eastern Europe,Europe
+R0469,Bulgaria,Eastern Europe,Europe
+R0470,Bulgaria,Eastern Europe,Europe
+R0471,Burkina Faso,Western Africa,Africa
+R0472,Burundi,Eastern Africa,Africa
+R0473,Cambodia,Southeastern Asia,Asia Pacific
+R0474,Cameroon,Central Africa,Africa
+R0475,Cameroon,Central Africa,Africa
+R0476,Cameroon,Central Africa,Africa
+R0477,Cameroon,Central Africa,Africa
+R0478,Cameroon,Central Africa,Africa
+R0479,Cameroon,Central Africa,Africa
+R0480,Cameroon,Central Africa,Africa
+R0481,Cameroon,Central Africa,Africa
+R0482,Cameroon,Central Africa,Africa
+R0483,Cameroon,Central Africa,Africa
+R0484,Cameroon,Central Africa,Africa
+R0485,Cameroon,Central Africa,Africa
+R0486,Cameroon,Central Africa,Africa
+R0487,Cameroon,Central Africa,Africa
+R0488,Canada,Canada,USCA
+R0489,Canada,Canada,USCA
+R0490,Canada,Canada,USCA
+R0491,Canada,Canada,USCA
+R0492,Canada,Canada,USCA
+R0493,Canada,Canada,USCA
+R0494,Canada,Canada,USCA
+R0495,Canada,Canada,USCA
+R0496,Canada,Canada,USCA
+R0497,Canada,Canada,USCA
+R0498,Canada,Canada,USCA
+R0499,Canada,Canada,USCA
+R0500,Canada,Canada,USCA
+R0501,Canada,Canada,USCA
+R0502,Canada,Canada,USCA
+R0503,Canada,Canada,USCA
+R0504,Canada,Canada,USCA
+R0505,Canada,Canada,USCA
+R0506,Canada,Canada,USCA
+R0507,Canada,Canada,USCA
+R0508,Canada,Canada,USCA
+R0509,Canada,Canada,USCA
+R0510,Canada,Canada,USCA
+R0511,Canada,Canada,USCA
+R0512,Canada,Canada,USCA
+R0513,Canada,Canada,USCA
+R0514,Canada,Canada,USCA
+R0515,Canada,Canada,USCA
+R0516,Canada,Canada,USCA
+R0517,Canada,Canada,USCA
+R0518,Canada,Canada,USCA
+R0519,Canada,Canada,USCA
+R0520,Canada,Canada,USCA
+R0521,Canada,Canada,USCA
+R0522,Canada,Canada,USCA
+R0523,Canada,Canada,USCA
+R0524,Canada,Canada,USCA
+R0525,Canada,Canada,USCA
+R0526,Canada,Canada,USCA
+R0527,Canada,Canada,USCA
+R0528,Canada,Canada,USCA
+R0529,Canada,Canada,USCA
+R0530,Canada,Canada,USCA
+R0531,Canada,Canada,USCA
+R0532,Canada,Canada,USCA
+R0533,Canada,Canada,USCA
+R0534,Central African Republic,Central Africa,Africa
+R0535,Chad,Central Africa,Africa
+R0536,Chile,South America,LATAM
+R0537,Chile,South America,LATAM
+R0538,Chile,South America,LATAM
+R0539,Chile,South America,LATAM
+R0540,Chile,South America,LATAM
+R0541,Chile,South America,LATAM
+R0542,Chile,South America,LATAM
+R0543,Chile,South America,LATAM
+R0544,Chile,South America,LATAM
+R0545,Chile,South America,LATAM
+R0546,Chile,South America,LATAM
+R0547,Chile,South America,LATAM
+R0548,Chile,South America,LATAM
+R0549,Chile,South America,LATAM
+R0550,Chile,South America,LATAM
+R0551,Chile,South America,LATAM
+R0552,Chile,South America,LATAM
+R0553,Chile,South America,LATAM
+R0554,Chile,South America,LATAM
+R0555,Chile,South America,LATAM
+R0556,Chile,South America,LATAM
+R0557,China,Eastern Asia,Asia Pacific
+R0558,China,Eastern Asia,Asia Pacific
+R0559,China,Eastern Asia,Asia Pacific
+R0560,China,Eastern Asia,Asia Pacific
+R0561,China,Eastern Asia,Asia Pacific
+R0562,China,Eastern Asia,Asia Pacific
+R0563,China,Eastern Asia,Asia Pacific
+R0564,China,Eastern Asia,Asia Pacific
+R0565,China,Eastern Asia,Asia Pacific
+R0566,China,Eastern Asia,Asia Pacific
+R0567,China,Eastern Asia,Asia Pacific
+R0568,China,Eastern Asia,Asia Pacific
+R0569,China,Eastern Asia,Asia Pacific
+R0570,China,Eastern Asia,Asia Pacific
+R0571,China,Eastern Asia,Asia Pacific
+R0572,China,Eastern Asia,Asia Pacific
+R0573,China,Eastern Asia,Asia Pacific
+R0574,China,Eastern Asia,Asia Pacific
+R0575,China,Eastern Asia,Asia Pacific
+R0576,China,Eastern Asia,Asia Pacific
+R0577,China,Eastern Asia,Asia Pacific
+R0578,China,Eastern Asia,Asia Pacific
+R0579,China,Eastern Asia,Asia Pacific
+R0580,China,Eastern Asia,Asia Pacific
+R0581,China,Eastern Asia,Asia Pacific
+R0582,China,Eastern Asia,Asia Pacific
+R0583,China,Eastern Asia,Asia Pacific
+R0584,China,Eastern Asia,Asia Pacific
+R0585,China,Eastern Asia,Asia Pacific
+R0586,China,Eastern Asia,Asia Pacific
+R0587,China,Eastern Asia,Asia Pacific
+R0588,China,Eastern Asia,Asia Pacific
+R0589,China,Eastern Asia,Asia Pacific
+R0590,China,Eastern Asia,Asia Pacific
+R0591,China,Eastern Asia,Asia Pacific
+R0592,China,Eastern Asia,Asia Pacific
+R0593,China,Eastern Asia,Asia Pacific
+R0594,China,Eastern Asia,Asia Pacific
+R0595,China,Eastern Asia,Asia Pacific
+R0596,China,Eastern Asia,Asia Pacific
+R0597,China,Eastern Asia,Asia Pacific
+R0598,China,Eastern Asia,Asia Pacific
+R0599,China,Eastern Asia,Asia Pacific
+R0600,China,Eastern Asia,Asia Pacific
+R0601,China,Eastern Asia,Asia Pacific
+R0602,China,Eastern Asia,Asia Pacific
+R0603,China,Eastern Asia,Asia Pacific
+R0604,China,Eastern Asia,Asia Pacific
+R0605,China,Eastern Asia,Asia Pacific
+R0606,China,Eastern Asia,Asia Pacific
+R0607,China,Eastern Asia,Asia Pacific
+R0608,China,Eastern Asia,Asia Pacific
+R0609,China,Eastern Asia,Asia Pacific
+R0610,China,Eastern Asia,Asia Pacific
+R0611,China,Eastern Asia,Asia Pacific
+R0612,China,Eastern Asia,Asia Pacific
+R0613,China,Eastern Asia,Asia Pacific
+R0614,China,Eastern Asia,Asia Pacific
+R0615,China,Eastern Asia,Asia Pacific
+R0616,China,Eastern Asia,Asia Pacific
+R0617,China,Eastern Asia,Asia Pacific
+R0618,China,Eastern Asia,Asia Pacific
+R0619,China,Eastern Asia,Asia Pacific
+R0620,China,Eastern Asia,Asia Pacific
+R0621,China,Eastern Asia,Asia Pacific
+R0622,China,Eastern Asia,Asia Pacific
+R0623,China,Eastern Asia,Asia Pacific
+R0624,China,Eastern Asia,Asia Pacific
+R0625,China,Eastern Asia,Asia Pacific
+R0626,China,Eastern Asia,Asia Pacific
+R0627,China,Eastern Asia,Asia Pacific
+R0628,China,Eastern Asia,Asia Pacific
+R0629,China,Eastern Asia,Asia Pacific
+R0630,China,Eastern Asia,Asia Pacific
+R0631,China,Eastern Asia,Asia Pacific
+R0632,China,Eastern Asia,Asia Pacific
+R0633,China,Eastern Asia,Asia Pacific
+R0634,China,Eastern Asia,Asia Pacific
+R0635,China,Eastern Asia,Asia Pacific
+R0636,China,Eastern Asia,Asia Pacific
+R0637,China,Eastern Asia,Asia Pacific
+R0638,China,Eastern Asia,Asia Pacific
+R0639,China,Eastern Asia,Asia Pacific
+R0640,China,Eastern Asia,Asia Pacific
+R0641,China,Eastern Asia,Asia Pacific
+R0642,China,Eastern Asia,Asia Pacific
+R0643,China,Eastern Asia,Asia Pacific
+R0644,China,Eastern Asia,Asia Pacific
+R0645,China,Eastern Asia,Asia Pacific
+R0646,China,Eastern Asia,Asia Pacific
+R0647,China,Eastern Asia,Asia Pacific
+R0648,China,Eastern Asia,Asia Pacific
+R0649,China,Eastern Asia,Asia Pacific
+R0650,China,Eastern Asia,Asia Pacific
+R0651,China,Eastern Asia,Asia Pacific
+R0652,China,Eastern Asia,Asia Pacific
+R0653,China,Eastern Asia,Asia Pacific
+R0654,China,Eastern Asia,Asia Pacific
+R0655,China,Eastern Asia,Asia Pacific
+R0656,China,Eastern Asia,Asia Pacific
+R0657,China,Eastern Asia,Asia Pacific
+R0658,China,Eastern Asia,Asia Pacific
+R0659,China,Eastern Asia,Asia Pacific
+R0660,China,Eastern Asia,Asia Pacific
+R0661,China,Eastern Asia,Asia Pacific
+R0662,China,Eastern Asia,Asia Pacific
+R0663,China,Eastern Asia,Asia Pacific
+R0664,China,Eastern Asia,Asia Pacific
+R0665,China,Eastern Asia,Asia Pacific
+R0666,China,Eastern Asia,Asia Pacific
+R0667,China,Eastern Asia,Asia Pacific
+R0668,China,Eastern Asia,Asia Pacific
+R0669,China,Eastern Asia,Asia Pacific
+R0670,China,Eastern Asia,Asia Pacific
+R0671,China,Eastern Asia,Asia Pacific
+R0672,China,Eastern Asia,Asia Pacific
+R0673,China,Eastern Asia,Asia Pacific
+R0674,China,Eastern Asia,Asia Pacific
+R0675,China,Eastern Asia,Asia Pacific
+R0676,China,Eastern Asia,Asia Pacific
+R0677,China,Eastern Asia,Asia Pacific
+R0678,China,Eastern Asia,Asia Pacific
+R0679,China,Eastern Asia,Asia Pacific
+R0680,China,Eastern Asia,Asia Pacific
+R0681,China,Eastern Asia,Asia Pacific
+R0682,China,Eastern Asia,Asia Pacific
+R0683,China,Eastern Asia,Asia Pacific
+R0684,China,Eastern Asia,Asia Pacific
+R0685,China,Eastern Asia,Asia Pacific
+R0686,China,Eastern Asia,Asia Pacific
+R0687,China,Eastern Asia,Asia Pacific
+R0688,China,Eastern Asia,Asia Pacific
+R0689,China,Eastern Asia,Asia Pacific
+R0690,China,Eastern Asia,Asia Pacific
+R0691,China,Eastern Asia,Asia Pacific
+R0692,China,Eastern Asia,Asia Pacific
+R0693,China,Eastern Asia,Asia Pacific
+R0694,China,Eastern Asia,Asia Pacific
+R0695,China,Eastern Asia,Asia Pacific
+R0696,China,Eastern Asia,Asia Pacific
+R0697,China,Eastern Asia,Asia Pacific
+R0698,China,Eastern Asia,Asia Pacific
+R0699,China,Eastern Asia,Asia Pacific
+R0700,China,Eastern Asia,Asia Pacific
+R0701,China,Eastern Asia,Asia Pacific
+R0702,China,Eastern Asia,Asia Pacific
+R0703,China,Eastern Asia,Asia Pacific
+R0704,China,Eastern Asia,Asia Pacific
+R0705,China,Eastern Asia,Asia Pacific
+R0706,China,Eastern Asia,Asia Pacific
+R0707,China,Eastern Asia,Asia Pacific
+R0708,China,Eastern Asia,Asia Pacific
+R0709,China,Eastern Asia,Asia Pacific
+R0710,China,Eastern Asia,Asia Pacific
+R0711,China,Eastern Asia,Asia Pacific
+R0712,China,Eastern Asia,Asia Pacific
+R0713,China,Eastern Asia,Asia Pacific
+R0714,China,Eastern Asia,Asia Pacific
+R0715,China,Eastern Asia,Asia Pacific
+R0716,China,Eastern Asia,Asia Pacific
+R0717,China,Eastern Asia,Asia Pacific
+R0718,China,Eastern Asia,Asia Pacific
+R0719,China,Eastern Asia,Asia Pacific
+R0720,China,Eastern Asia,Asia Pacific
+R0721,China,Eastern Asia,Asia Pacific
+R0722,China,Eastern Asia,Asia Pacific
+R0723,China,Eastern Asia,Asia Pacific
+R0724,China,Eastern Asia,Asia Pacific
+R0725,China,Eastern Asia,Asia Pacific
+R0726,China,Eastern Asia,Asia Pacific
+R0727,China,Eastern Asia,Asia Pacific
+R0728,China,Eastern Asia,Asia Pacific
+R0729,China,Eastern Asia,Asia Pacific
+R0730,China,Eastern Asia,Asia Pacific
+R0731,China,Eastern Asia,Asia Pacific
+R0732,China,Eastern Asia,Asia Pacific
+R0733,China,Eastern Asia,Asia Pacific
+R0734,China,Eastern Asia,Asia Pacific
+R0735,China,Eastern Asia,Asia Pacific
+R0736,China,Eastern Asia,Asia Pacific
+R0737,China,Eastern Asia,Asia Pacific
+R0738,China,Eastern Asia,Asia Pacific
+R0739,China,Eastern Asia,Asia Pacific
+R0740,China,Eastern Asia,Asia Pacific
+R0741,China,Eastern Asia,Asia Pacific
+R0742,China,Eastern Asia,Asia Pacific
+R0743,China,Eastern Asia,Asia Pacific
+R0744,China,Eastern Asia,Asia Pacific
+R0745,China,Eastern Asia,Asia Pacific
+R0746,China,Eastern Asia,Asia Pacific
+R0747,China,Eastern Asia,Asia Pacific
+R0748,China,Eastern Asia,Asia Pacific
+R0749,China,Eastern Asia,Asia Pacific
+R0750,China,Eastern Asia,Asia Pacific
+R0751,China,Eastern Asia,Asia Pacific
+R0752,China,Eastern Asia,Asia Pacific
+R0753,China,Eastern Asia,Asia Pacific
+R0754,China,Eastern Asia,Asia Pacific
+R0755,China,Eastern Asia,Asia Pacific
+R0756,China,Eastern Asia,Asia Pacific
+R0757,China,Eastern Asia,Asia Pacific
+R0758,China,Eastern Asia,Asia Pacific
+R0759,China,Eastern Asia,Asia Pacific
+R0760,China,Eastern Asia,Asia Pacific
+R0761,China,Eastern Asia,Asia Pacific
+R0762,China,Eastern Asia,Asia Pacific
+R0763,China,Eastern Asia,Asia Pacific
+R0764,China,Eastern Asia,Asia Pacific
+R0765,China,Eastern Asia,Asia Pacific
+R0766,China,Eastern Asia,Asia Pacific
+R0767,China,Eastern Asia,Asia Pacific
+R0768,China,Eastern Asia,Asia Pacific
+R0769,China,Eastern Asia,Asia Pacific
+R0770,China,Eastern Asia,Asia Pacific
+R0771,China,Eastern Asia,Asia Pacific
+R0772,China,Eastern Asia,Asia Pacific
+R0773,China,Eastern Asia,Asia Pacific
+R0774,China,Eastern Asia,Asia Pacific
+R0775,China,Eastern Asia,Asia Pacific
+R0776,China,Eastern Asia,Asia Pacific
+R0777,China,Eastern Asia,Asia Pacific
+R0778,China,Eastern Asia,Asia Pacific
+R0779,China,Eastern Asia,Asia Pacific
+R0780,China,Eastern Asia,Asia Pacific
+R0781,China,Eastern Asia,Asia Pacific
+R0782,China,Eastern Asia,Asia Pacific
+R0783,China,Eastern Asia,Asia Pacific
+R0784,China,Eastern Asia,Asia Pacific
+R0785,China,Eastern Asia,Asia Pacific
+R0786,China,Eastern Asia,Asia Pacific
+R0787,China,Eastern Asia,Asia Pacific
+R0788,China,Eastern Asia,Asia Pacific
+R0789,China,Eastern Asia,Asia Pacific
+R0790,China,Eastern Asia,Asia Pacific
+R0791,China,Eastern Asia,Asia Pacific
+R0792,China,Eastern Asia,Asia Pacific
+R0793,China,Eastern Asia,Asia Pacific
+R0794,China,Eastern Asia,Asia Pacific
+R0795,China,Eastern Asia,Asia Pacific
+R0796,China,Eastern Asia,Asia Pacific
+R0797,China,Eastern Asia,Asia Pacific
+R0798,China,Eastern Asia,Asia Pacific
+R0799,China,Eastern Asia,Asia Pacific
+R0800,China,Eastern Asia,Asia Pacific
+R0801,China,Eastern Asia,Asia Pacific
+R0802,China,Eastern Asia,Asia Pacific
+R0803,China,Eastern Asia,Asia Pacific
+R0804,China,Eastern Asia,Asia Pacific
+R0805,China,Eastern Asia,Asia Pacific
+R0806,China,Eastern Asia,Asia Pacific
+R0807,China,Eastern Asia,Asia Pacific
+R0808,China,Eastern Asia,Asia Pacific
+R0809,China,Eastern Asia,Asia Pacific
+R0810,China,Eastern Asia,Asia Pacific
+R0811,China,Eastern Asia,Asia Pacific
+R0812,China,Eastern Asia,Asia Pacific
+R0813,Colombia,South America,LATAM
+R0814,Colombia,South America,LATAM
+R0815,Colombia,South America,LATAM
+R0816,Colombia,South America,LATAM
+R0817,Colombia,South America,LATAM
+R0818,Colombia,South America,LATAM
+R0819,Colombia,South America,LATAM
+R0820,Colombia,South America,LATAM
+R0821,Colombia,South America,LATAM
+R0822,Colombia,South America,LATAM
+R0823,Colombia,South America,LATAM
+R0824,Colombia,South America,LATAM
+R0825,Colombia,South America,LATAM
+R0826,Colombia,South America,LATAM
+R0827,Colombia,South America,LATAM
+R0828,Colombia,South America,LATAM
+R0829,Colombia,South America,LATAM
+R0830,Colombia,South America,LATAM
+R0831,Colombia,South America,LATAM
+R0832,Colombia,South America,LATAM
+R0833,Colombia,South America,LATAM
+R0834,Colombia,South America,LATAM
+R0835,Colombia,South America,LATAM
+R0836,Colombia,South America,LATAM
+R0837,Colombia,South America,LATAM
+R0838,Colombia,South America,LATAM
+R0839,Colombia,South America,LATAM
+R0840,Colombia,South America,LATAM
+R0841,Colombia,South America,LATAM
+R0842,Colombia,South America,LATAM
+R0843,Colombia,South America,LATAM
+R0844,Colombia,South America,LATAM
+R0845,Colombia,South America,LATAM
+R0846,Colombia,South America,LATAM
+R0847,Colombia,South America,LATAM
+R0848,Colombia,South America,LATAM
+R0849,Colombia,South America,LATAM
+R0850,Colombia,South America,LATAM
+R0851,Colombia,South America,LATAM
+R0852,Colombia,South America,LATAM
+R0853,Colombia,South America,LATAM
+R0854,Colombia,South America,LATAM
+R0855,Colombia,South America,LATAM
+R0856,Colombia,South America,LATAM
+R0857,Congo [DRC],Central Africa,Africa
+R0858,Congo [DRC],Central Africa,Africa
+R0859,Congo [DRC],Central Africa,Africa
+R0860,Congo [DRC],Central Africa,Africa
+R0861,Congo [DRC],Central Africa,Africa
+R0862,Congo [DRC],Central Africa,Africa
+R0863,Congo [DRC],Central Africa,Africa
+R0864,Congo [DRC],Central Africa,Africa
+R0865,Congo [DRC],Central Africa,Africa
+R0866,Congo [DRC],Central Africa,Africa
+R0867,Congo [DRC],Central Africa,Africa
+R0868,Congo [DRC],Central Africa,Africa
+R0869,Congo [DRC],Central Africa,Africa
+R0870,Congo [DRC],Central Africa,Africa
+R0871,Congo [DRC],Central Africa,Africa
+R0872,Congo [DRC],Central Africa,Africa
+R0873,Congo [Republic],Central Africa,Africa
+R0874,Costa Rica,Central America,LATAM
+R0875,Côte d'Ivoire,Western Africa,Africa
+R0876,Côte d'Ivoire,Western Africa,Africa
+R0877,Côte d'Ivoire,Western Africa,Africa
+R0878,Côte d'Ivoire,Western Africa,Africa
+R0879,Côte d'Ivoire,Western Africa,Africa
+R0880,Côte d'Ivoire,Western Africa,Africa
+R0881,Côte d'Ivoire,Western Africa,Africa
+R0882,Croatia,Southern Europe,Europe
+R0883,Croatia,Southern Europe,Europe
+R0884,Croatia,Southern Europe,Europe
+R0885,Croatia,Southern Europe,Europe
+R0886,Croatia,Southern Europe,Europe
+R0887,Cuba,Caribbean,LATAM
+R0888,Cuba,Caribbean,LATAM
+R0889,Cuba,Caribbean,LATAM
+R0890,Cuba,Caribbean,LATAM
+R0891,Cuba,Caribbean,LATAM
+R0892,Cuba,Caribbean,LATAM
+R0893,Cuba,Caribbean,LATAM
+R0894,Cuba,Caribbean,LATAM
+R0895,Cuba,Caribbean,LATAM
+R0896,Cuba,Caribbean,LATAM
+R0897,Cuba,Caribbean,LATAM
+R0898,Cuba,Caribbean,LATAM
+R0899,Cuba,Caribbean,LATAM
+R0900,Cuba,Caribbean,LATAM
+R0901,Cuba,Caribbean,LATAM
+R0902,Cuba,Caribbean,LATAM
+R0903,Cuba,Caribbean,LATAM
+R0904,Cuba,Caribbean,LATAM
+R0905,Cuba,Caribbean,LATAM
+R0906,Cuba,Caribbean,LATAM
+R0907,Cuba,Caribbean,LATAM
+R0908,Cuba,Caribbean,LATAM
+R0909,Cuba,Caribbean,LATAM
+R0910,Cyprus,Southern Europe,Europe
+R0911,Czech Republic,Eastern Europe,Europe
+R0912,Czech Republic,Eastern Europe,Europe
+R0913,Czech Republic,Eastern Europe,Europe
+R0914,Czech Republic,Eastern Europe,Europe
+R0915,Czech Republic,Eastern Europe,Europe
+R0916,Czech Republic,Eastern Europe,Europe
+R0917,Czech Republic,Eastern Europe,Europe
+R0918,Denmark,Northern Europe,Europe
+R0919,Denmark,Northern Europe,Europe
+R0920,Denmark,Northern Europe,Europe
+R0921,Denmark,Northern Europe,Europe
+R0922,Denmark,Northern Europe,Europe
+R0923,Denmark,Northern Europe,Europe
+R0924,Denmark,Northern Europe,Europe
+R0925,Djibouti,Eastern Africa,Africa
+R0926,Dominican Republic,Caribbean,LATAM
+R0927,Dominican Republic,Caribbean,LATAM
+R0928,Dominican Republic,Caribbean,LATAM
+R0929,Dominican Republic,Caribbean,LATAM
+R0930,Dominican Republic,Caribbean,LATAM
+R0931,Dominican Republic,Caribbean,LATAM
+R0932,Dominican Republic,Caribbean,LATAM
+R0933,Dominican Republic,Caribbean,LATAM
+R0934,Dominican Republic,Caribbean,LATAM
+R0935,Dominican Republic,Caribbean,LATAM
+R0936,Dominican Republic,Caribbean,LATAM
+R0937,Dominican Republic,Caribbean,LATAM
+R0938,Ecuador,South America,LATAM
+R0939,Ecuador,South America,LATAM
+R0940,Ecuador,South America,LATAM
+R0941,Ecuador,South America,LATAM
+R0942,Ecuador,South America,LATAM
+R0943,Ecuador,South America,LATAM
+R0944,Egypt,North Africa,Africa
+R0945,Egypt,North Africa,Africa
+R0946,Egypt,North Africa,Africa
+R0947,Egypt,North Africa,Africa
+R0948,Egypt,North Africa,Africa
+R0949,Egypt,North Africa,Africa
+R0950,Egypt,North Africa,Africa
+R0951,Egypt,North Africa,Africa
+R0952,Egypt,North Africa,Africa
+R0953,Egypt,North Africa,Africa
+R0954,Egypt,North Africa,Africa
+R0955,Egypt,North Africa,Africa
+R0956,Egypt,North Africa,Africa
+R0957,Egypt,North Africa,Africa
+R0958,Egypt,North Africa,Africa
+R0959,Egypt,North Africa,Africa
+R0960,Egypt,North Africa,Africa
+R0961,Egypt,North Africa,Africa
+R0962,Egypt,North Africa,Africa
+R0963,Egypt,North Africa,Africa
+R0964,Egypt,North Africa,Africa
+R0965,Egypt,North Africa,Africa
+R0966,Egypt,North Africa,Africa
+R0967,Egypt,North Africa,Africa
+R0968,Egypt,North Africa,Africa
+R0969,Egypt,North Africa,Africa
+R0970,Egypt,North Africa,Africa
+R0971,El Salvador,Central America,LATAM
+R0972,El Salvador,Central America,LATAM
+R0973,El Salvador,Central America,LATAM
+R0974,El Salvador,Central America,LATAM
+R0975,El Salvador,Central America,LATAM
+R0976,El Salvador,Central America,LATAM
+R0977,El Salvador,Central America,LATAM
+R0978,El Salvador,Central America,LATAM
+R0979,El Salvador,Central America,LATAM
+R0980,El Salvador,Central America,LATAM
+R0981,El Salvador,Central America,LATAM
+R0982,Equatorial Guinea,Central Africa,Africa
+R0983,Eritrea,Eastern Africa,Africa
+R0984,Estonia,Northern Europe,Europe
+R0985,Estonia,Northern Europe,Europe
+R0986,Ethiopia,Eastern Africa,Africa
+R0987,Finland,Northern Europe,Europe
+R0988,Finland,Northern Europe,Europe
+R0989,Finland,Northern Europe,Europe
+R0990,Finland,Northern Europe,Europe
+R0991,Finland,Northern Europe,Europe
+R0992,France,Western Europe,Europe
+R0993,France,Western Europe,Europe
+R0994,France,Western Europe,Europe
+R0995,France,Western Europe,Europe
+R0996,France,Western Europe,Europe
+R0997,France,Western Europe,Europe
+R0998,France,Western Europe,Europe
+R0999,France,Western Europe,Europe
+R1000,France,Western Europe,Europe
+R1001,France,Western Europe,Europe
+R1002,France,Western Europe,Europe
+R1003,France,Western Europe,Europe
+R1004,France,Western Europe,Europe
+R1005,France,Western Europe,Europe
+R1006,France,Western Europe,Europe
+R1007,France,Western Europe,Europe
+R1008,France,Western Europe,Europe
+R1009,France,Western Europe,Europe
+R1010,France,Western Europe,Europe
+R1011,France,Western Europe,Europe
+R1012,France,Western Europe,Europe
+R1013,France,Western Europe,Europe
+R1014,France,Western Europe,Europe
+R1015,France,Western Europe,Europe
+R1016,France,Western Europe,Europe
+R1017,France,Western Europe,Europe
+R1018,France,Western Europe,Europe
+R1019,France,Western Europe,Europe
+R1020,France,Western Europe,Europe
+R1021,France,Western Europe,Europe
+R1022,France,Western Europe,Europe
+R1023,France,Western Europe,Europe
+R1024,France,Western Europe,Europe
+R1025,France,Western Europe,Europe
+R1026,France,Western Europe,Europe
+R1027,France,Western Europe,Europe
+R1028,France,Western Europe,Europe
+R1029,France,Western Europe,Europe
+R1030,France,Western Europe,Europe
+R1031,France,Western Europe,Europe
+R1032,France,Western Europe,Europe
+R1033,France,Western Europe,Europe
+R1034,France,Western Europe,Europe
+R1035,France,Western Europe,Europe
+R1036,France,Western Europe,Europe
+R1037,France,Western Europe,Europe
+R1038,France,Western Europe,Europe
+R1039,France,Western Europe,Europe
+R1040,France,Western Europe,Europe
+R1041,France,Western Europe,Europe
+R1042,France,Western Europe,Europe
+R1043,France,Western Europe,Europe
+R1044,France,Western Europe,Europe
+R1045,France,Western Europe,Europe
+R1046,France,Western Europe,Europe
+R1047,France,Western Europe,Europe
+R1048,France,Western Europe,Europe
+R1049,France,Western Europe,Europe
+R1050,France,Western Europe,Europe
+R1051,France,Western Europe,Europe
+R1052,France,Western Europe,Europe
+R1053,France,Western Europe,Europe
+R1054,France,Western Europe,Europe
+R1055,France,Western Europe,Europe
+R1056,France,Western Europe,Europe
+R1057,France,Western Europe,Europe
+R1058,France,Western Europe,Europe
+R1059,France,Western Europe,Europe
+R1060,France,Western Europe,Europe
+R1061,France,Western Europe,Europe
+R1062,France,Western Europe,Europe
+R1063,France,Western Europe,Europe
+R1064,France,Western Europe,Europe
+R1065,France,Western Europe,Europe
+R1066,France,Western Europe,Europe
+R1067,France,Western Europe,Europe
+R1068,France,Western Europe,Europe
+R1069,France,Western Europe,Europe
+R1070,France,Western Europe,Europe
+R1071,France,Western Europe,Europe
+R1072,France,Western Europe,Europe
+R1073,France,Western Europe,Europe
+R1074,France,Western Europe,Europe
+R1075,France,Western Europe,Europe
+R1076,France,Western Europe,Europe
+R1077,France,Western Europe,Europe
+R1078,France,Western Europe,Europe
+R1079,France,Western Europe,Europe
+R1080,France,Western Europe,Europe
+R1081,France,Western Europe,Europe
+R1082,France,Western Europe,Europe
+R1083,France,Western Europe,Europe
+R1084,France,Western Europe,Europe
+R1085,France,Western Europe,Europe
+R1086,France,Western Europe,Europe
+R1087,France,Western Europe,Europe
+R1088,France,Western Europe,Europe
+R1089,France,Western Europe,Europe
+R1090,France,Western Europe,Europe
+R1091,France,Western Europe,Europe
+R1092,France,Western Europe,Europe
+R1093,France,Western Europe,Europe
+R1094,France,Western Europe,Europe
+R1095,France,Western Europe,Europe
+R1096,France,Western Europe,Europe
+R1097,France,Western Europe,Europe
+R1098,France,Western Europe,Europe
+R1099,France,Western Europe,Europe
+R1100,France,Western Europe,Europe
+R1101,France,Western Europe,Europe
+R1102,France,Western Europe,Europe
+R1103,France,Western Europe,Europe
+R1104,France,Western Europe,Europe
+R1105,France,Western Europe,Europe
+R1106,France,Western Europe,Europe
+R1107,France,Western Europe,Europe
+R1108,France,Western Europe,Europe
+R1109,France,Western Europe,Europe
+R1110,France,Western Europe,Europe
+R1111,France,Western Europe,Europe
+R1112,France,Western Europe,Europe
+R1113,France,Western Europe,Europe
+R1114,France,Western Europe,Europe
+R1115,France,Western Europe,Europe
+R1116,France,Western Europe,Europe
+R1117,France,Western Europe,Europe
+R1118,France,Western Europe,Europe
+R1119,France,Western Europe,Europe
+R1120,France,Western Europe,Europe
+R1121,France,Western Europe,Europe
+R1122,France,Western Europe,Europe
+R1123,France,Western Europe,Europe
+R1124,France,Western Europe,Europe
+R1125,France,Western Europe,Europe
+R1126,France,Western Europe,Europe
+R1127,France,Western Europe,Europe
+R1128,France,Western Europe,Europe
+R1129,France,Western Europe,Europe
+R1130,France,Western Europe,Europe
+R1131,France,Western Europe,Europe
+R1132,France,Western Europe,Europe
+R1133,France,Western Europe,Europe
+R1134,France,Western Europe,Europe
+R1135,France,Western Europe,Europe
+R1136,France,Western Europe,Europe
+R1137,France,Western Europe,Europe
+R1138,France,Western Europe,Europe
+R1139,France,Western Europe,Europe
+R1140,France,Western Europe,Europe
+R1141,France,Western Europe,Europe
+R1142,France,Western Europe,Europe
+R1143,France,Western Europe,Europe
+R1144,France,Western Europe,Europe
+R1145,France,Western Europe,Europe
+R1146,France,Western Europe,Europe
+R1147,France,Western Europe,Europe
+R1148,France,Western Europe,Europe
+R1149,France,Western Europe,Europe
+R1150,France,Western Europe,Europe
+R1151,France,Western Europe,Europe
+R1152,France,Western Europe,Europe
+R1153,France,Western Europe,Europe
+R1154,France,Western Europe,Europe
+R1155,France,Western Europe,Europe
+R1156,France,Western Europe,Europe
+R1157,France,Western Europe,Europe
+R1158,France,Western Europe,Europe
+R1159,France,Western Europe,Europe
+R1160,France,Western Europe,Europe
+R1161,France,Western Europe,Europe
+R1162,France,Western Europe,Europe
+R1163,France,Western Europe,Europe
+R1164,France,Western Europe,Europe
+R1165,France,Western Europe,Europe
+R1166,France,Western Europe,Europe
+R1167,France,Western Europe,Europe
+R1168,France,Western Europe,Europe
+R1169,France,Western Europe,Europe
+R1170,France,Western Europe,Europe
+R1171,France,Western Europe,Europe
+R1172,France,Western Europe,Europe
+R1173,France,Western Europe,Europe
+R1174,France,Western Europe,Europe
+R1175,France,Western Europe,Europe
+R1176,France,Western Europe,Europe
+R1177,France,Western Europe,Europe
+R1178,France,Western Europe,Europe
+R1179,France,Western Europe,Europe
+R1180,France,Western Europe,Europe
+R1181,France,Western Europe,Europe
+R1182,France,Western Europe,Europe
+R1183,France,Western Europe,Europe
+R1184,France,Western Europe,Europe
+R1185,France,Western Europe,Europe
+R1186,France,Western Europe,Europe
+R1187,France,Western Europe,Europe
+R1188,France,Western Europe,Europe
+R1189,France,Western Europe,Europe
+R1190,France,Western Europe,Europe
+R1191,France,Western Europe,Europe
+R1192,France,Western Europe,Europe
+R1193,France,Western Europe,Europe
+R1194,France,Western Europe,Europe
+R1195,France,Western Europe,Europe
+R1196,France,Western Europe,Europe
+R1197,France,Western Europe,Europe
+R1198,France,Western Europe,Europe
+R1199,France,Western Europe,Europe
+R1200,France,Western Europe,Europe
+R1201,France,Western Europe,Europe
+R1202,France,Western Europe,Europe
+R1203,France,Western Europe,Europe
+R1204,France,Western Europe,Europe
+R1205,France,Western Europe,Europe
+R1206,France,Western Europe,Europe
+R1207,France,Western Europe,Europe
+R1208,France,Western Europe,Europe
+R1209,France,Western Europe,Europe
+R1210,France,Western Europe,Europe
+R1211,France,Western Europe,Europe
+R1212,France,Western Europe,Europe
+R1213,France,Western Europe,Europe
+R1214,France,Western Europe,Europe
+R1215,France,Western Europe,Europe
+R1216,France,Western Europe,Europe
+R1217,France,Western Europe,Europe
+R1218,France,Western Europe,Europe
+R1219,France,Western Europe,Europe
+R1220,France,Western Europe,Europe
+R1221,France,Western Europe,Europe
+R1222,France,Western Europe,Europe
+R1223,France,Western Europe,Europe
+R1224,France,Western Europe,Europe
+R1225,France,Western Europe,Europe
+R1226,France,Western Europe,Europe
+R1227,France,Western Europe,Europe
+R1228,France,Western Europe,Europe
+R1229,France,Western Europe,Europe
+R1230,France,Western Europe,Europe
+R1231,France,Western Europe,Europe
+R1232,France,Western Europe,Europe
+R1233,France,Western Europe,Europe
+R1234,France,Western Europe,Europe
+R1235,France,Western Europe,Europe
+R1236,France,Western Europe,Europe
+R1237,France,Western Europe,Europe
+R1238,France,Western Europe,Europe
+R1239,France,Western Europe,Europe
+R1240,France,Western Europe,Europe
+R1241,France,Western Europe,Europe
+R1242,France,Western Europe,Europe
+R1243,France,Western Europe,Europe
+R1244,France,Western Europe,Europe
+R1245,France,Western Europe,Europe
+R1246,France,Western Europe,Europe
+R1247,France,Western Europe,Europe
+R1248,France,Western Europe,Europe
+R1249,France,Western Europe,Europe
+R1250,France,Western Europe,Europe
+R1251,France,Western Europe,Europe
+R1252,France,Western Europe,Europe
+R1253,France,Western Europe,Europe
+R1254,France,Western Europe,Europe
+R1255,France,Western Europe,Europe
+R1256,France,Western Europe,Europe
+R1257,France,Western Europe,Europe
+R1258,France,Western Europe,Europe
+R1259,France,Western Europe,Europe
+R1260,France,Western Europe,Europe
+R1261,France,Western Europe,Europe
+R1262,France,Western Europe,Europe
+R1263,France,Western Europe,Europe
+R1264,France,Western Europe,Europe
+R1265,France,Western Europe,Europe
+R1266,France,Western Europe,Europe
+R1267,France,Western Europe,Europe
+R1268,France,Western Europe,Europe
+R1269,France,Western Europe,Europe
+R1270,France,Western Europe,Europe
+R1271,France,Western Europe,Europe
+R1272,France,Western Europe,Europe
+R1273,France,Western Europe,Europe
+R1274,France,Western Europe,Europe
+R1275,France,Western Europe,Europe
+R1276,France,Western Europe,Europe
+R1277,France,Western Europe,Europe
+R1278,France,Western Europe,Europe
+R1279,France,Western Europe,Europe
+R1280,France,Western Europe,Europe
+R1281,France,Western Europe,Europe
+R1282,France,Western Europe,Europe
+R1283,France,Western Europe,Europe
+R1284,France,Western Europe,Europe
+R1285,France,Western Europe,Europe
+R1286,France,Western Europe,Europe
+R1287,France,Western Europe,Europe
+R1288,France,Western Europe,Europe
+R1289,France,Western Europe,Europe
+R1290,France,Western Europe,Europe
+R1291,France,Western Europe,Europe
+R1292,France,Western Europe,Europe
+R1293,France,Western Europe,Europe
+R1294,France,Western Europe,Europe
+R1295,France,Western Europe,Europe
+R1296,France,Western Europe,Europe
+R1297,France,Western Europe,Europe
+R1298,France,Western Europe,Europe
+R1299,France,Western Europe,Europe
+R1300,France,Western Europe,Europe
+R1301,France,Western Europe,Europe
+R1302,France,Western Europe,Europe
+R1303,France,Western Europe,Europe
+R1304,France,Western Europe,Europe
+R1305,France,Western Europe,Europe
+R1306,France,Western Europe,Europe
+R1307,France,Western Europe,Europe
+R1308,France,Western Europe,Europe
+R1309,France,Western Europe,Europe
+R1310,France,Western Europe,Europe
+R1311,France,Western Europe,Europe
+R1312,France,Western Europe,Europe
+R1313,France,Western Europe,Europe
+R1314,France,Western Europe,Europe
+R1315,France,Western Europe,Europe
+R1316,France,Western Europe,Europe
+R1317,France,Western Europe,Europe
+R1318,France,Western Europe,Europe
+R1319,France,Western Europe,Europe
+R1320,France,Western Europe,Europe
+R1321,France,Western Europe,Europe
+R1322,France,Western Europe,Europe
+R1323,France,Western Europe,Europe
+R1324,France,Western Europe,Europe
+R1325,France,Western Europe,Europe
+R1326,France,Western Europe,Europe
+R1327,France,Western Europe,Europe
+R1328,France,Western Europe,Europe
+R1329,France,Western Europe,Europe
+R1330,France,Western Europe,Europe
+R1331,France,Western Europe,Europe
+R1332,France,Western Europe,Europe
+R1333,France,Western Europe,Europe
+R1334,France,Western Europe,Europe
+R1335,France,Western Europe,Europe
+R1336,France,Western Europe,Europe
+R1337,France,Western Europe,Europe
+R1338,France,Western Europe,Europe
+R1339,France,Western Europe,Europe
+R1340,France,Western Europe,Europe
+R1341,France,Western Europe,Europe
+R1342,France,Western Europe,Europe
+R1343,France,Western Europe,Europe
+R1344,France,Western Europe,Europe
+R1345,France,Western Europe,Europe
+R1346,France,Western Europe,Europe
+R1347,France,Western Europe,Europe
+R1348,France,Western Europe,Europe
+R1349,France,Western Europe,Europe
+R1350,France,Western Europe,Europe
+R1351,France,Western Europe,Europe
+R1352,France,Western Europe,Europe
+R1353,France,Western Europe,Europe
+R1354,France,Western Europe,Europe
+R1355,France,Western Europe,Europe
+R1356,France,Western Europe,Europe
+R1357,France,Western Europe,Europe
+R1358,France,Western Europe,Europe
+R1359,France,Western Europe,Europe
+R1360,France,Western Europe,Europe
+R1361,France,Western Europe,Europe
+R1362,France,Western Europe,Europe
+R1363,France,Western Europe,Europe
+R1364,France,Western Europe,Europe
+R1365,France,Western Europe,Europe
+R1366,France,Western Europe,Europe
+R1367,France,Western Europe,Europe
+R1368,France,Western Europe,Europe
+R1369,France,Western Europe,Europe
+R1370,France,Western Europe,Europe
+R1371,France,Western Europe,Europe
+R1372,France,Western Europe,Europe
+R1373,France,Western Europe,Europe
+R1374,France,Western Europe,Europe
+R1375,France,Western Europe,Europe
+R1376,France,Western Europe,Europe
+R1377,France,Western Europe,Europe
+R1378,France,Western Europe,Europe
+R1379,France,Western Europe,Europe
+R1380,France,Western Europe,Europe
+R1381,France,Western Europe,Europe
+R1382,France,Western Europe,Europe
+R1383,France,Western Europe,Europe
+R1384,France,Western Europe,Europe
+R1385,France,Western Europe,Europe
+R1386,France,Western Europe,Europe
+R1387,France,Western Europe,Europe
+R1388,France,Western Europe,Europe
+R1389,France,Western Europe,Europe
+R1390,France,Western Europe,Europe
+R1391,France,Western Europe,Europe
+R1392,France,Western Europe,Europe
+R1393,France,Western Europe,Europe
+R1394,France,Western Europe,Europe
+R1395,France,Western Europe,Europe
+R1396,France,Western Europe,Europe
+R1397,French Guiana,South America,LATAM
+R1398,Gabon,Central Africa,Africa
+R1399,Gambia,Western Africa,Africa
+R1400,Georgia,Western Asia,Asia Pacific
+R1401,Georgia,Western Asia,Asia Pacific
+R1402,Germany,Western Europe,Europe
+R1403,Germany,Western Europe,Europe
+R1404,Germany,Western Europe,Europe
+R1405,Germany,Western Europe,Europe
+R1406,Germany,Western Europe,Europe
+R1407,Germany,Western Europe,Europe
+R1408,Germany,Western Europe,Europe
+R1409,Germany,Western Europe,Europe
+R1410,Germany,Western Europe,Europe
+R1411,Germany,Western Europe,Europe
+R1412,Germany,Western Europe,Europe
+R1413,Germany,Western Europe,Europe
+R1414,Germany,Western Europe,Europe
+R1415,Germany,Western Europe,Europe
+R1416,Germany,Western Europe,Europe
+R1417,Germany,Western Europe,Europe
+R1418,Germany,Western Europe,Europe
+R1419,Germany,Western Europe,Europe
+R1420,Germany,Western Europe,Europe
+R1421,Germany,Western Europe,Europe
+R1422,Germany,Western Europe,Europe
+R1423,Germany,Western Europe,Europe
+R1424,Germany,Western Europe,Europe
+R1425,Germany,Western Europe,Europe
+R1426,Germany,Western Europe,Europe
+R1427,Germany,Western Europe,Europe
+R1428,Germany,Western Europe,Europe
+R1429,Germany,Western Europe,Europe
+R1430,Germany,Western Europe,Europe
+R1431,Germany,Western Europe,Europe
+R1432,Germany,Western Europe,Europe
+R1433,Germany,Western Europe,Europe
+R1434,Germany,Western Europe,Europe
+R1435,Germany,Western Europe,Europe
+R1436,Germany,Western Europe,Europe
+R1437,Germany,Western Europe,Europe
+R1438,Germany,Western Europe,Europe
+R1439,Germany,Western Europe,Europe
+R1440,Germany,Western Europe,Europe
+R1441,Germany,Western Europe,Europe
+R1442,Germany,Western Europe,Europe
+R1443,Germany,Western Europe,Europe
+R1444,Germany,Western Europe,Europe
+R1445,Germany,Western Europe,Europe
+R1446,Germany,Western Europe,Europe
+R1447,Germany,Western Europe,Europe
+R1448,Germany,Western Europe,Europe
+R1449,Germany,Western Europe,Europe
+R1450,Germany,Western Europe,Europe
+R1451,Germany,Western Europe,Europe
+R1452,Germany,Western Europe,Europe
+R1453,Germany,Western Europe,Europe
+R1454,Germany,Western Europe,Europe
+R1455,Germany,Western Europe,Europe
+R1456,Germany,Western Europe,Europe
+R1457,Germany,Western Europe,Europe
+R1458,Germany,Western Europe,Europe
+R1459,Germany,Western Europe,Europe
+R1460,Germany,Western Europe,Europe
+R1461,Germany,Western Europe,Europe
+R1462,Germany,Western Europe,Europe
+R1463,Germany,Western Europe,Europe
+R1464,Germany,Western Europe,Europe
+R1465,Germany,Western Europe,Europe
+R1466,Germany,Western Europe,Europe
+R1467,Germany,Western Europe,Europe
+R1468,Germany,Western Europe,Europe
+R1469,Germany,Western Europe,Europe
+R1470,Germany,Western Europe,Europe
+R1471,Germany,Western Europe,Europe
+R1472,Germany,Western Europe,Europe
+R1473,Germany,Western Europe,Europe
+R1474,Germany,Western Europe,Europe
+R1475,Germany,Western Europe,Europe
+R1476,Germany,Western Europe,Europe
+R1477,Germany,Western Europe,Europe
+R1478,Germany,Western Europe,Europe
+R1479,Germany,Western Europe,Europe
+R1480,Germany,Western Europe,Europe
+R1481,Germany,Western Europe,Europe
+R1482,Germany,Western Europe,Europe
+R1483,Germany,Western Europe,Europe
+R1484,Germany,Western Europe,Europe
+R1485,Germany,Western Europe,Europe
+R1486,Germany,Western Europe,Europe
+R1487,Germany,Western Europe,Europe
+R1488,Germany,Western Europe,Europe
+R1489,Germany,Western Europe,Europe
+R1490,Germany,Western Europe,Europe
+R1491,Germany,Western Europe,Europe
+R1492,Germany,Western Europe,Europe
+R1493,Germany,Western Europe,Europe
+R1494,Germany,Western Europe,Europe
+R1495,Germany,Western Europe,Europe
+R1496,Germany,Western Europe,Europe
+R1497,Germany,Western Europe,Europe
+R1498,Germany,Western Europe,Europe
+R1499,Germany,Western Europe,Europe
+R1500,Germany,Western Europe,Europe
+R1501,Germany,Western Europe,Europe
+R1502,Germany,Western Europe,Europe
+R1503,Germany,Western Europe,Europe
+R1504,Germany,Western Europe,Europe
+R1505,Germany,Western Europe,Europe
+R1506,Germany,Western Europe,Europe
+R1507,Germany,Western Europe,Europe
+R1508,Germany,Western Europe,Europe
+R1509,Germany,Western Europe,Europe
+R1510,Germany,Western Europe,Europe
+R1511,Germany,Western Europe,Europe
+R1512,Germany,Western Europe,Europe
+R1513,Germany,Western Europe,Europe
+R1514,Germany,Western Europe,Europe
+R1515,Germany,Western Europe,Europe
+R1516,Germany,Western Europe,Europe
+R1517,Germany,Western Europe,Europe
+R1518,Germany,Western Europe,Europe
+R1519,Germany,Western Europe,Europe
+R1520,Germany,Western Europe,Europe
+R1521,Germany,Western Europe,Europe
+R1522,Germany,Western Europe,Europe
+R1523,Germany,Western Europe,Europe
+R1524,Germany,Western Europe,Europe
+R1525,Germany,Western Europe,Europe
+R1526,Germany,Western Europe,Europe
+R1527,Germany,Western Europe,Europe
+R1528,Germany,Western Europe,Europe
+R1529,Germany,Western Europe,Europe
+R1530,Germany,Western Europe,Europe
+R1531,Germany,Western Europe,Europe
+R1532,Germany,Western Europe,Europe
+R1533,Germany,Western Europe,Europe
+R1534,Germany,Western Europe,Europe
+R1535,Germany,Western Europe,Europe
+R1536,Germany,Western Europe,Europe
+R1537,Germany,Western Europe,Europe
+R1538,Germany,Western Europe,Europe
+R1539,Germany,Western Europe,Europe
+R1540,Germany,Western Europe,Europe
+R1541,Germany,Western Europe,Europe
+R1542,Germany,Western Europe,Europe
+R1543,Germany,Western Europe,Europe
+R1544,Germany,Western Europe,Europe
+R1545,Germany,Western Europe,Europe
+R1546,Germany,Western Europe,Europe
+R1547,Germany,Western Europe,Europe
+R1548,Germany,Western Europe,Europe
+R1549,Germany,Western Europe,Europe
+R1550,Germany,Western Europe,Europe
+R1551,Germany,Western Europe,Europe
+R1552,Germany,Western Europe,Europe
+R1553,Germany,Western Europe,Europe
+R1554,Germany,Western Europe,Europe
+R1555,Germany,Western Europe,Europe
+R1556,Germany,Western Europe,Europe
+R1557,Germany,Western Europe,Europe
+R1558,Germany,Western Europe,Europe
+R1559,Ghana,Western Africa,Africa
+R1560,Ghana,Western Africa,Africa
+R1561,Ghana,Western Africa,Africa
+R1562,Ghana,Western Africa,Africa
+R1563,Ghana,Western Africa,Africa
+R1564,Greece,Southern Europe,Europe
+R1565,Guadeloupe,Caribbean,LATAM
+R1566,Guatemala,Central America,LATAM
+R1567,Guatemala,Central America,LATAM
+R1568,Guatemala,Central America,LATAM
+R1569,Guatemala,Central America,LATAM
+R1570,Guatemala,Central America,LATAM
+R1571,Guatemala,Central America,LATAM
+R1572,Guatemala,Central America,LATAM
+R1573,Guatemala,Central America,LATAM
+R1574,Guatemala,Central America,LATAM
+R1575,Guatemala,Central America,LATAM
+R1576,Guatemala,Central America,LATAM
+R1577,Guinea,Western Africa,Africa
+R1578,Guinea,Western Africa,Africa
+R1579,Guinea,Western Africa,Africa
+R1580,Guinea-Bissau,Western Africa,Africa
+R1581,Guyana,South America,LATAM
+R1582,Haiti,Caribbean,LATAM
+R1583,Haiti,Caribbean,LATAM
+R1584,Honduras,Central America,LATAM
+R1585,Honduras,Central America,LATAM
+R1586,Honduras,Central America,LATAM
+R1587,Honduras,Central America,LATAM
+R1588,Honduras,Central America,LATAM
+R1589,Honduras,Central America,LATAM
+R1590,Hong Kong,Eastern Asia,Asia Pacific
+R1591,Hungary,Eastern Europe,Europe
+R1592,Hungary,Eastern Europe,Europe
+R1593,Hungary,Eastern Europe,Europe
+R1594,Hungary,Eastern Europe,Europe
+R1595,India,Southern Asia,Asia Pacific
+R1596,India,Southern Asia,Asia Pacific
+R1597,India,Southern Asia,Asia Pacific
+R1598,India,Southern Asia,Asia Pacific
+R1599,India,Southern Asia,Asia Pacific
+R1600,India,Southern Asia,Asia Pacific
+R1601,India,Southern Asia,Asia Pacific
+R1602,India,Southern Asia,Asia Pacific
+R1603,India,Southern Asia,Asia Pacific
+R1604,India,Southern Asia,Asia Pacific
+R1605,India,Southern Asia,Asia Pacific
+R1606,India,Southern Asia,Asia Pacific
+R1607,India,Southern Asia,Asia Pacific
+R1608,India,Southern Asia,Asia Pacific
+R1609,India,Southern Asia,Asia Pacific
+R1610,India,Southern Asia,Asia Pacific
+R1611,India,Southern Asia,Asia Pacific
+R1612,India,Southern Asia,Asia Pacific
+R1613,India,Southern Asia,Asia Pacific
+R1614,India,Southern Asia,Asia Pacific
+R1615,India,Southern Asia,Asia Pacific
+R1616,India,Southern Asia,Asia Pacific
+R1617,India,Southern Asia,Asia Pacific
+R1618,India,Southern Asia,Asia Pacific
+R1619,India,Southern Asia,Asia Pacific
+R1620,India,Southern Asia,Asia Pacific
+R1621,India,Southern Asia,Asia Pacific
+R1622,India,Southern Asia,Asia Pacific
+R1623,India,Southern Asia,Asia Pacific
+R1624,India,Southern Asia,Asia Pacific
+R1625,India,Southern Asia,Asia Pacific
+R1626,India,Southern Asia,Asia Pacific
+R1627,India,Southern Asia,Asia Pacific
+R1628,India,Southern Asia,Asia Pacific
+R1629,India,Southern Asia,Asia Pacific
+R1630,India,Southern Asia,Asia Pacific
+R1631,India,Southern Asia,Asia Pacific
+R1632,India,Southern Asia,Asia Pacific
+R1633,India,Southern Asia,Asia Pacific
+R1634,India,Southern Asia,Asia Pacific
+R1635,India,Southern Asia,Asia Pacific
+R1636,India,Southern Asia,Asia Pacific
+R1637,India,Southern Asia,Asia Pacific
+R1638,India,Southern Asia,Asia Pacific
+R1639,India,Southern Asia,Asia Pacific
+R1640,India,Southern Asia,Asia Pacific
+R1641,India,Southern Asia,Asia Pacific
+R1642,India,Southern Asia,Asia Pacific
+R1643,India,Southern Asia,Asia Pacific
+R1644,India,Southern Asia,Asia Pacific
+R1645,India,Southern Asia,Asia Pacific
+R1646,India,Southern Asia,Asia Pacific
+R1647,India,Southern Asia,Asia Pacific
+R1648,India,Southern Asia,Asia Pacific
+R1649,India,Southern Asia,Asia Pacific
+R1650,India,Southern Asia,Asia Pacific
+R1651,India,Southern Asia,Asia Pacific
+R1652,India,Southern Asia,Asia Pacific
+R1653,India,Southern Asia,Asia Pacific
+R1654,India,Southern Asia,Asia Pacific
+R1655,India,Southern Asia,Asia Pacific
+R1656,India,Southern Asia,Asia Pacific
+R1657,India,Southern Asia,Asia Pacific
+R1658,India,Southern Asia,Asia Pacific
+R1659,India,Southern Asia,Asia Pacific
+R1660,India,Southern Asia,Asia Pacific
+R1661,India,Southern Asia,Asia Pacific
+R1662,India,Southern Asia,Asia Pacific
+R1663,India,Southern Asia,Asia Pacific
+R1664,India,Southern Asia,Asia Pacific
+R1665,India,Southern Asia,Asia Pacific
+R1666,India,Southern Asia,Asia Pacific
+R1667,India,Southern Asia,Asia Pacific
+R1668,India,Southern Asia,Asia Pacific
+R1669,India,Southern Asia,Asia Pacific
+R1670,India,Southern Asia,Asia Pacific
+R1671,India,Southern Asia,Asia Pacific
+R1672,India,Southern Asia,Asia Pacific
+R1673,India,Southern Asia,Asia Pacific
+R1674,India,Southern Asia,Asia Pacific
+R1675,India,Southern Asia,Asia Pacific
+R1676,India,Southern Asia,Asia Pacific
+R1677,India,Southern Asia,Asia Pacific
+R1678,India,Southern Asia,Asia Pacific
+R1679,India,Southern Asia,Asia Pacific
+R1680,India,Southern Asia,Asia Pacific
+R1681,India,Southern Asia,Asia Pacific
+R1682,India,Southern Asia,Asia Pacific
+R1683,India,Southern Asia,Asia Pacific
+R1684,India,Southern Asia,Asia Pacific
+R1685,India,Southern Asia,Asia Pacific
+R1686,India,Southern Asia,Asia Pacific
+R1687,India,Southern Asia,Asia Pacific
+R1688,India,Southern Asia,Asia Pacific
+R1689,India,Southern Asia,Asia Pacific
+R1690,India,Southern Asia,Asia Pacific
+R1691,India,Southern Asia,Asia Pacific
+R1692,India,Southern Asia,Asia Pacific
+R1693,India,Southern Asia,Asia Pacific
+R1694,India,Southern Asia,Asia Pacific
+R1695,India,Southern Asia,Asia Pacific
+R1696,India,Southern Asia,Asia Pacific
+R1697,India,Southern Asia,Asia Pacific
+R1698,India,Southern Asia,Asia Pacific
+R1699,India,Southern Asia,Asia Pacific
+R1700,India,Southern Asia,Asia Pacific
+R1701,India,Southern Asia,Asia Pacific
+R1702,India,Southern Asia,Asia Pacific
+R1703,India,Southern Asia,Asia Pacific
+R1704,India,Southern Asia,Asia Pacific
+R1705,India,Southern Asia,Asia Pacific
+R1706,India,Southern Asia,Asia Pacific
+R1707,India,Southern Asia,Asia Pacific
+R1708,India,Southern Asia,Asia Pacific
+R1709,India,Southern Asia,Asia Pacific
+R1710,India,Southern Asia,Asia Pacific
+R1711,India,Southern Asia,Asia Pacific
+R1712,India,Southern Asia,Asia Pacific
+R1713,India,Southern Asia,Asia Pacific
+R1714,India,Southern Asia,Asia Pacific
+R1715,India,Southern Asia,Asia Pacific
+R1716,India,Southern Asia,Asia Pacific
+R1717,India,Southern Asia,Asia Pacific
+R1718,India,Southern Asia,Asia Pacific
+R1719,India,Southern Asia,Asia Pacific
+R1720,India,Southern Asia,Asia Pacific
+R1721,India,Southern Asia,Asia Pacific
+R1722,India,Southern Asia,Asia Pacific
+R1723,India,Southern Asia,Asia Pacific
+R1724,India,Southern Asia,Asia Pacific
+R1725,India,Southern Asia,Asia Pacific
+R1726,India,Southern Asia,Asia Pacific
+R1727,India,Southern Asia,Asia Pacific
+R1728,India,Southern Asia,Asia Pacific
+R1729,India,Southern Asia,Asia Pacific
+R1730,India,Southern Asia,Asia Pacific
+R1731,India,Southern Asia,Asia Pacific
+R1732,India,Southern Asia,Asia Pacific
+R1733,India,Southern Asia,Asia Pacific
+R1734,India,Southern Asia,Asia Pacific
+R1735,India,Southern Asia,Asia Pacific
+R1736,India,Southern Asia,Asia Pacific
+R1737,India,Southern Asia,Asia Pacific
+R1738,India,Southern Asia,Asia Pacific
+R1739,India,Southern Asia,Asia Pacific
+R1740,India,Southern Asia,Asia Pacific
+R1741,India,Southern Asia,Asia Pacific
+R1742,India,Southern Asia,Asia Pacific
+R1743,India,Southern Asia,Asia Pacific
+R1744,India,Southern Asia,Asia Pacific
+R1745,India,Southern Asia,Asia Pacific
+R1746,India,Southern Asia,Asia Pacific
+R1747,India,Southern Asia,Asia Pacific
+R1748,India,Southern Asia,Asia Pacific
+R1749,India,Southern Asia,Asia Pacific
+R1750,Indonesia,Southeastern Asia,Asia Pacific
+R1751,Indonesia,Southeastern Asia,Asia Pacific
+R1752,Indonesia,Southeastern Asia,Asia Pacific
+R1753,Indonesia,Southeastern Asia,Asia Pacific
+R1754,Indonesia,Southeastern Asia,Asia Pacific
+R1755,Indonesia,Southeastern Asia,Asia Pacific
+R1756,Indonesia,Southeastern Asia,Asia Pacific
+R1757,Indonesia,Southeastern Asia,Asia Pacific
+R1758,Indonesia,Southeastern Asia,Asia Pacific
+R1759,Indonesia,Southeastern Asia,Asia Pacific
+R1760,Indonesia,Southeastern Asia,Asia Pacific
+R1761,Indonesia,Southeastern Asia,Asia Pacific
+R1762,Indonesia,Southeastern Asia,Asia Pacific
+R1763,Indonesia,Southeastern Asia,Asia Pacific
+R1764,Indonesia,Southeastern Asia,Asia Pacific
+R1765,Indonesia,Southeastern Asia,Asia Pacific
+R1766,Indonesia,Southeastern Asia,Asia Pacific
+R1767,Indonesia,Southeastern Asia,Asia Pacific
+R1768,Indonesia,Southeastern Asia,Asia Pacific
+R1769,Indonesia,Southeastern Asia,Asia Pacific
+R1770,Indonesia,Southeastern Asia,Asia Pacific
+R1771,Indonesia,Southeastern Asia,Asia Pacific
+R1772,Indonesia,Southeastern Asia,Asia Pacific
+R1773,Indonesia,Southeastern Asia,Asia Pacific
+R1774,Indonesia,Southeastern Asia,Asia Pacific
+R1775,Indonesia,Southeastern Asia,Asia Pacific
+R1776,Indonesia,Southeastern Asia,Asia Pacific
+R1777,Indonesia,Southeastern Asia,Asia Pacific
+R1778,Indonesia,Southeastern Asia,Asia Pacific
+R1779,Indonesia,Southeastern Asia,Asia Pacific
+R1780,Indonesia,Southeastern Asia,Asia Pacific
+R1781,Indonesia,Southeastern Asia,Asia Pacific
+R1782,Indonesia,Southeastern Asia,Asia Pacific
+R1783,Indonesia,Southeastern Asia,Asia Pacific
+R1784,Indonesia,Southeastern Asia,Asia Pacific
+R1785,Indonesia,Southeastern Asia,Asia Pacific
+R1786,Indonesia,Southeastern Asia,Asia Pacific
+R1787,Indonesia,Southeastern Asia,Asia Pacific
+R1788,Indonesia,Southeastern Asia,Asia Pacific
+R1789,Indonesia,Southeastern Asia,Asia Pacific
+R1790,Indonesia,Southeastern Asia,Asia Pacific
+R1791,Indonesia,Southeastern Asia,Asia Pacific
+R1792,Indonesia,Southeastern Asia,Asia Pacific
+R1793,Iran,Southern Asia,Asia Pacific
+R1794,Iran,Southern Asia,Asia Pacific
+R1795,Iran,Southern Asia,Asia Pacific
+R1796,Iran,Southern Asia,Asia Pacific
+R1797,Iran,Southern Asia,Asia Pacific
+R1798,Iran,Southern Asia,Asia Pacific
+R1799,Iran,Southern Asia,Asia Pacific
+R1800,Iran,Southern Asia,Asia Pacific
+R1801,Iran,Southern Asia,Asia Pacific
+R1802,Iran,Southern Asia,Asia Pacific
+R1803,Iran,Southern Asia,Asia Pacific
+R1804,Iran,Southern Asia,Asia Pacific
+R1805,Iran,Southern Asia,Asia Pacific
+R1806,Iran,Southern Asia,Asia Pacific
+R1807,Iran,Southern Asia,Asia Pacific
+R1808,Iran,Southern Asia,Asia Pacific
+R1809,Iran,Southern Asia,Asia Pacific
+R1810,Iran,Southern Asia,Asia Pacific
+R1811,Iran,Southern Asia,Asia Pacific
+R1812,Iran,Southern Asia,Asia Pacific
+R1813,Iran,Southern Asia,Asia Pacific
+R1814,Iran,Southern Asia,Asia Pacific
+R1815,Iran,Southern Asia,Asia Pacific
+R1816,Iran,Southern Asia,Asia Pacific
+R1817,Iran,Southern Asia,Asia Pacific
+R1818,Iran,Southern Asia,Asia Pacific
+R1819,Iran,Southern Asia,Asia Pacific
+R1820,Iran,Southern Asia,Asia Pacific
+R1821,Iran,Southern Asia,Asia Pacific
+R1822,Iran,Southern Asia,Asia Pacific
+R1823,Iran,Southern Asia,Asia Pacific
+R1824,Iran,Southern Asia,Asia Pacific
+R1825,Iran,Southern Asia,Asia Pacific
+R1826,Iran,Southern Asia,Asia Pacific
+R1827,Iran,Southern Asia,Asia Pacific
+R1828,Iran,Southern Asia,Asia Pacific
+R1829,Iran,Southern Asia,Asia Pacific
+R1830,Iran,Southern Asia,Asia Pacific
+R1831,Iran,Southern Asia,Asia Pacific
+R1832,Iran,Southern Asia,Asia Pacific
+R1833,Iran,Southern Asia,Asia Pacific
+R1834,Iran,Southern Asia,Asia Pacific
+R1835,Iran,Southern Asia,Asia Pacific
+R1836,Iran,Southern Asia,Asia Pacific
+R1837,Iran,Southern Asia,Asia Pacific
+R1838,Iran,Southern Asia,Asia Pacific
+R1839,Iran,Southern Asia,Asia Pacific
+R1840,Iran,Southern Asia,Asia Pacific
+R1841,Iran,Southern Asia,Asia Pacific
+R1842,Iran,Southern Asia,Asia Pacific
+R1843,Iran,Southern Asia,Asia Pacific
+R1844,Iran,Southern Asia,Asia Pacific
+R1845,Iran,Southern Asia,Asia Pacific
+R1846,Iran,Southern Asia,Asia Pacific
+R1847,Iran,Southern Asia,Asia Pacific
+R1848,Iran,Southern Asia,Asia Pacific
+R1849,Iran,Southern Asia,Asia Pacific
+R1850,Iraq,Western Asia,Asia Pacific
+R1851,Iraq,Western Asia,Asia Pacific
+R1852,Iraq,Western Asia,Asia Pacific
+R1853,Iraq,Western Asia,Asia Pacific
+R1854,Iraq,Western Asia,Asia Pacific
+R1855,Iraq,Western Asia,Asia Pacific
+R1856,Iraq,Western Asia,Asia Pacific
+R1857,Iraq,Western Asia,Asia Pacific
+R1858,Iraq,Western Asia,Asia Pacific
+R1859,Iraq,Western Asia,Asia Pacific
+R1860,Iraq,Western Asia,Asia Pacific
+R1861,Ireland,Northern Europe,Europe
+R1862,Ireland,Northern Europe,Europe
+R1863,Ireland,Northern Europe,Europe
+R1864,Ireland,Northern Europe,Europe
+R1865,Israel,Western Asia,Asia Pacific
+R1866,Israel,Western Asia,Asia Pacific
+R1867,Israel,Western Asia,Asia Pacific
+R1868,Israel,Western Asia,Asia Pacific
+R1869,Israel,Western Asia,Asia Pacific
+R1870,Israel,Western Asia,Asia Pacific
+R1871,Israel,Western Asia,Asia Pacific
+R1872,Israel,Western Asia,Asia Pacific
+R1873,Israel,Western Asia,Asia Pacific
+R1874,Israel,Western Asia,Asia Pacific
+R1875,Israel,Western Asia,Asia Pacific
+R1876,Israel,Western Asia,Asia Pacific
+R1877,Israel,Western Asia,Asia Pacific
+R1878,Italy,Southern Europe,Europe
+R1879,Italy,Southern Europe,Europe
+R1880,Italy,Southern Europe,Europe
+R1881,Italy,Southern Europe,Europe
+R1882,Italy,Southern Europe,Europe
+R1883,Italy,Southern Europe,Europe
+R1884,Italy,Southern Europe,Europe
+R1885,Italy,Southern Europe,Europe
+R1886,Italy,Southern Europe,Europe
+R1887,Italy,Southern Europe,Europe
+R1888,Italy,Southern Europe,Europe
+R1889,Italy,Southern Europe,Europe
+R1890,Italy,Southern Europe,Europe
+R1891,Italy,Southern Europe,Europe
+R1892,Italy,Southern Europe,Europe
+R1893,Italy,Southern Europe,Europe
+R1894,Italy,Southern Europe,Europe
+R1895,Italy,Southern Europe,Europe
+R1896,Italy,Southern Europe,Europe
+R1897,Italy,Southern Europe,Europe
+R1898,Italy,Southern Europe,Europe
+R1899,Italy,Southern Europe,Europe
+R1900,Italy,Southern Europe,Europe
+R1901,Italy,Southern Europe,Europe
+R1902,Italy,Southern Europe,Europe
+R1903,Italy,Southern Europe,Europe
+R1904,Italy,Southern Europe,Europe
+R1905,Italy,Southern Europe,Europe
+R1906,Italy,Southern Europe,Europe
+R1907,Italy,Southern Europe,Europe
+R1908,Italy,Southern Europe,Europe
+R1909,Italy,Southern Europe,Europe
+R1910,Italy,Southern Europe,Europe
+R1911,Italy,Southern Europe,Europe
+R1912,Italy,Southern Europe,Europe
+R1913,Italy,Southern Europe,Europe
+R1914,Italy,Southern Europe,Europe
+R1915,Italy,Southern Europe,Europe
+R1916,Italy,Southern Europe,Europe
+R1917,Italy,Southern Europe,Europe
+R1918,Italy,Southern Europe,Europe
+R1919,Italy,Southern Europe,Europe
+R1920,Italy,Southern Europe,Europe
+R1921,Italy,Southern Europe,Europe
+R1922,Italy,Southern Europe,Europe
+R1923,Italy,Southern Europe,Europe
+R1924,Italy,Southern Europe,Europe
+R1925,Italy,Southern Europe,Europe
+R1926,Italy,Southern Europe,Europe
+R1927,Italy,Southern Europe,Europe
+R1928,Italy,Southern Europe,Europe
+R1929,Italy,Southern Europe,Europe
+R1930,Italy,Southern Europe,Europe
+R1931,Italy,Southern Europe,Europe
+R1932,Italy,Southern Europe,Europe
+R1933,Italy,Southern Europe,Europe
+R1934,Italy,Southern Europe,Europe
+R1935,Italy,Southern Europe,Europe
+R1936,Italy,Southern Europe,Europe
+R1937,Italy,Southern Europe,Europe
+R1938,Italy,Southern Europe,Europe
+R1939,Italy,Southern Europe,Europe
+R1940,Italy,Southern Europe,Europe
+R1941,Italy,Southern Europe,Europe
+R1942,Italy,Southern Europe,Europe
+R1943,Italy,Southern Europe,Europe
+R1944,Italy,Southern Europe,Europe
+R1945,Italy,Southern Europe,Europe
+R1946,Italy,Southern Europe,Europe
+R1947,Italy,Southern Europe,Europe
+R1948,Italy,Southern Europe,Europe
+R1949,Italy,Southern Europe,Europe
+R1950,Italy,Southern Europe,Europe
+R1951,Italy,Southern Europe,Europe
+R1952,Italy,Southern Europe,Europe
+R1953,Italy,Southern Europe,Europe
+R1954,Italy,Southern Europe,Europe
+R1955,Italy,Southern Europe,Europe
+R1956,Italy,Southern Europe,Europe
+R1957,Italy,Southern Europe,Europe
+R1958,Italy,Southern Europe,Europe
+R1959,Italy,Southern Europe,Europe
+R1960,Italy,Southern Europe,Europe
+R1961,Italy,Southern Europe,Europe
+R1962,Italy,Southern Europe,Europe
+R1963,Italy,Southern Europe,Europe
+R1964,Italy,Southern Europe,Europe
+R1965,Italy,Southern Europe,Europe
+R1966,Italy,Southern Europe,Europe
+R1967,Italy,Southern Europe,Europe
+R1968,Italy,Southern Europe,Europe
+R1969,Italy,Southern Europe,Europe
+R1970,Italy,Southern Europe,Europe
+R1971,Italy,Southern Europe,Europe
+R1972,Italy,Southern Europe,Europe
+R1973,Italy,Southern Europe,Europe
+R1974,Italy,Southern Europe,Europe
+R1975,Italy,Southern Europe,Europe
+R1976,Italy,Southern Europe,Europe
+R1977,Italy,Southern Europe,Europe
+R1978,Italy,Southern Europe,Europe
+R1979,Italy,Southern Europe,Europe
+R1980,Italy,Southern Europe,Europe
+R1981,Italy,Southern Europe,Europe
+R1982,Italy,Southern Europe,Europe
+R1983,Italy,Southern Europe,Europe
+R1984,Italy,Southern Europe,Europe
+R1985,Italy,Southern Europe,Europe
+R1986,Italy,Southern Europe,Europe
+R1987,Italy,Southern Europe,Europe
+R1988,Italy,Southern Europe,Europe
+R1989,Italy,Southern Europe,Europe
+R1990,Italy,Southern Europe,Europe
+R1991,Italy,Southern Europe,Europe
+R1992,Italy,Southern Europe,Europe
+R1993,Italy,Southern Europe,Europe
+R1994,Italy,Southern Europe,Europe
+R1995,Italy,Southern Europe,Europe
+R1996,Italy,Southern Europe,Europe
+R1997,Italy,Southern Europe,Europe
+R1998,Italy,Southern Europe,Europe
+R1999,Italy,Southern Europe,Europe
+R2000,Italy,Southern Europe,Europe
+R2001,Italy,Southern Europe,Europe
+R2002,Italy,Southern Europe,Europe
+R2003,Italy,Southern Europe,Europe
+R2004,Italy,Southern Europe,Europe
+R2005,Jamaica,Caribbean,LATAM
+R2006,Jamaica,Caribbean,LATAM
+R2007,Japan,Eastern Asia,Asia Pacific
+R2008,Japan,Eastern Asia,Asia Pacific
+R2009,Japan,Eastern Asia,Asia Pacific
+R2010,Japan,Eastern Asia,Asia Pacific
+R2011,Japan,Eastern Asia,Asia Pacific
+R2012,Japan,Eastern Asia,Asia Pacific
+R2013,Japan,Eastern Asia,Asia Pacific
+R2014,Japan,Eastern Asia,Asia Pacific
+R2015,Japan,Eastern Asia,Asia Pacific
+R2016,Japan,Eastern Asia,Asia Pacific
+R2017,Japan,Eastern Asia,Asia Pacific
+R2018,Japan,Eastern Asia,Asia Pacific
+R2019,Japan,Eastern Asia,Asia Pacific
+R2020,Japan,Eastern Asia,Asia Pacific
+R2021,Japan,Eastern Asia,Asia Pacific
+R2022,Japan,Eastern Asia,Asia Pacific
+R2023,Japan,Eastern Asia,Asia Pacific
+R2024,Japan,Eastern Asia,Asia Pacific
+R2025,Japan,Eastern Asia,Asia Pacific
+R2026,Japan,Eastern Asia,Asia Pacific
+R2027,Japan,Eastern Asia,Asia Pacific
+R2028,Japan,Eastern Asia,Asia Pacific
+R2029,Japan,Eastern Asia,Asia Pacific
+R2030,Japan,Eastern Asia,Asia Pacific
+R2031,Japan,Eastern Asia,Asia Pacific
+R2032,Japan,Eastern Asia,Asia Pacific
+R2033,Japan,Eastern Asia,Asia Pacific
+R2034,Japan,Eastern Asia,Asia Pacific
+R2035,Japan,Eastern Asia,Asia Pacific
+R2036,Japan,Eastern Asia,Asia Pacific
+R2037,Japan,Eastern Asia,Asia Pacific
+R2038,Japan,Eastern Asia,Asia Pacific
+R2039,Japan,Eastern Asia,Asia Pacific
+R2040,Japan,Eastern Asia,Asia Pacific
+R2041,Japan,Eastern Asia,Asia Pacific
+R2042,Japan,Eastern Asia,Asia Pacific
+R2043,Japan,Eastern Asia,Asia Pacific
+R2044,Japan,Eastern Asia,Asia Pacific
+R2045,Japan,Eastern Asia,Asia Pacific
+R2046,Japan,Eastern Asia,Asia Pacific
+R2047,Japan,Eastern Asia,Asia Pacific
+R2048,Japan,Eastern Asia,Asia Pacific
+R2049,Japan,Eastern Asia,Asia Pacific
+R2050,Japan,Eastern Asia,Asia Pacific
+R2051,Japan,Eastern Asia,Asia Pacific
+R2052,Japan,Eastern Asia,Asia Pacific
+R2053,Japan,Eastern Asia,Asia Pacific
+R2054,Japan,Eastern Asia,Asia Pacific
+R2055,Japan,Eastern Asia,Asia Pacific
+R2056,Japan,Eastern Asia,Asia Pacific
+R2057,Japan,Eastern Asia,Asia Pacific
+R2058,Japan,Eastern Asia,Asia Pacific
+R2059,Japan,Eastern Asia,Asia Pacific
+R2060,Japan,Eastern Asia,Asia Pacific
+R2061,Japan,Eastern Asia,Asia Pacific
+R2062,Japan,Eastern Asia,Asia Pacific
+R2063,Japan,Eastern Asia,Asia Pacific
+R2064,Japan,Eastern Asia,Asia Pacific
+R2065,Japan,Eastern Asia,Asia Pacific
+R2066,Jordan,Western Asia,Asia Pacific
+R2067,Jordan,Western Asia,Asia Pacific
+R2068,Jordan,Western Asia,Asia Pacific
+R2069,Kazakhstan,Central Asia,Asia Pacific
+R2070,Kazakhstan,Central Asia,Asia Pacific
+R2071,Kazakhstan,Central Asia,Asia Pacific
+R2072,Kazakhstan,Central Asia,Asia Pacific
+R2073,Kazakhstan,Central Asia,Asia Pacific
+R2074,Kazakhstan,Central Asia,Asia Pacific
+R2075,Kazakhstan,Central Asia,Asia Pacific
+R2076,Kazakhstan,Central Asia,Asia Pacific
+R2077,Kazakhstan,Central Asia,Asia Pacific
+R2078,Kazakhstan,Central Asia,Asia Pacific
+R2079,Kazakhstan,Central Asia,Asia Pacific
+R2080,Kazakhstan,Central Asia,Asia Pacific
+R2081,Kenya,Eastern Africa,Africa
+R2082,Kenya,Eastern Africa,Africa
+R2083,Kenya,Eastern Africa,Africa
+R2084,Kenya,Eastern Africa,Africa
+R2085,Kenya,Eastern Africa,Africa
+R2086,Kenya,Eastern Africa,Africa
+R2087,Kuwait,Western Asia,Asia Pacific
+R2088,Kyrgyzstan,Central Asia,Asia Pacific
+R2089,Kyrgyzstan,Central Asia,Asia Pacific
+R2090,Laos,Southeastern Asia,Asia Pacific
+R2091,Lebanon,Western Asia,Asia Pacific
+R2092,Lebanon,Western Asia,Asia Pacific
+R2093,Lesotho,Southern Africa,Africa
+R2094,Liberia,Western Africa,Africa
+R2095,Liberia,Western Africa,Africa
+R2096,Libya,North Africa,Africa
+R2097,Libya,North Africa,Africa
+R2098,Libya,North Africa,Africa
+R2099,Lithuania,Northern Europe,Europe
+R2100,Lithuania,Northern Europe,Europe
+R2101,Lithuania,Northern Europe,Europe
+R2102,Lithuania,Northern Europe,Europe
+R2103,Lithuania,Northern Europe,Europe
+R2104,Luxembourg,Western Europe,Europe
+R2105,Macedonia [FYROM],Southern Europe,Europe
+R2106,Macedonia [FYROM],Southern Europe,Europe
+R2107,Madagascar,Eastern Africa,Africa
+R2108,Madagascar,Eastern Africa,Africa
+R2109,Madagascar,Eastern Africa,Africa
+R2110,Madagascar,Eastern Africa,Africa
+R2111,Madagascar,Eastern Africa,Africa
+R2112,Madagascar,Eastern Africa,Africa
+R2113,Malawi,Eastern Africa,Africa
+R2114,Malaysia,Southeastern Asia,Asia Pacific
+R2115,Malaysia,Southeastern Asia,Asia Pacific
+R2116,Malaysia,Southeastern Asia,Asia Pacific
+R2117,Malaysia,Southeastern Asia,Asia Pacific
+R2118,Malaysia,Southeastern Asia,Asia Pacific
+R2119,Malaysia,Southeastern Asia,Asia Pacific
+R2120,Malaysia,Southeastern Asia,Asia Pacific
+R2121,Malaysia,Southeastern Asia,Asia Pacific
+R2122,Malaysia,Southeastern Asia,Asia Pacific
+R2123,Malaysia,Southeastern Asia,Asia Pacific
+R2124,Malaysia,Southeastern Asia,Asia Pacific
+R2125,Mali,Western Africa,Africa
+R2126,Mali,Western Africa,Africa
+R2127,Mali,Western Africa,Africa
+R2128,Mali,Western Africa,Africa
+R2129,Martinique,Caribbean,LATAM
+R2130,Mauritania,Western Africa,Africa
+R2131,Mexico,Central America,LATAM
+R2132,Mexico,Central America,LATAM
+R2133,Mexico,Central America,LATAM
+R2134,Mexico,Central America,LATAM
+R2135,Mexico,Central America,LATAM
+R2136,Mexico,Central America,LATAM
+R2137,Mexico,Central America,LATAM
+R2138,Mexico,Central America,LATAM
+R2139,Mexico,Central America,LATAM
+R2140,Mexico,Central America,LATAM
+R2141,Mexico,Central America,LATAM
+R2142,Mexico,Central America,LATAM
+R2143,Mexico,Central America,LATAM
+R2144,Mexico,Central America,LATAM
+R2145,Mexico,Central America,LATAM
+R2146,Mexico,Central America,LATAM
+R2147,Mexico,Central America,LATAM
+R2148,Mexico,Central America,LATAM
+R2149,Mexico,Central America,LATAM
+R2150,Mexico,Central America,LATAM
+R2151,Mexico,Central America,LATAM
+R2152,Mexico,Central America,LATAM
+R2153,Mexico,Central America,LATAM
+R2154,Mexico,Central America,LATAM
+R2155,Mexico,Central America,LATAM
+R2156,Mexico,Central America,LATAM
+R2157,Mexico,Central America,LATAM
+R2158,Mexico,Central America,LATAM
+R2159,Mexico,Central America,LATAM
+R2160,Mexico,Central America,LATAM
+R2161,Mexico,Central America,LATAM
+R2162,Mexico,Central America,LATAM
+R2163,Mexico,Central America,LATAM
+R2164,Mexico,Central America,LATAM
+R2165,Mexico,Central America,LATAM
+R2166,Mexico,Central America,LATAM
+R2167,Mexico,Central America,LATAM
+R2168,Mexico,Central America,LATAM
+R2169,Mexico,Central America,LATAM
+R2170,Mexico,Central America,LATAM
+R2171,Mexico,Central America,LATAM
+R2172,Mexico,Central America,LATAM
+R2173,Mexico,Central America,LATAM
+R2174,Mexico,Central America,LATAM
+R2175,Mexico,Central America,LATAM
+R2176,Mexico,Central America,LATAM
+R2177,Mexico,Central America,LATAM
+R2178,Mexico,Central America,LATAM
+R2179,Mexico,Central America,LATAM
+R2180,Mexico,Central America,LATAM
+R2181,Mexico,Central America,LATAM
+R2182,Mexico,Central America,LATAM
+R2183,Mexico,Central America,LATAM
+R2184,Mexico,Central America,LATAM
+R2185,Mexico,Central America,LATAM
+R2186,Mexico,Central America,LATAM
+R2187,Mexico,Central America,LATAM
+R2188,Mexico,Central America,LATAM
+R2189,Mexico,Central America,LATAM
+R2190,Mexico,Central America,LATAM
+R2191,Mexico,Central America,LATAM
+R2192,Mexico,Central America,LATAM
+R2193,Mexico,Central America,LATAM
+R2194,Mexico,Central America,LATAM
+R2195,Mexico,Central America,LATAM
+R2196,Mexico,Central America,LATAM
+R2197,Mexico,Central America,LATAM
+R2198,Mexico,Central America,LATAM
+R2199,Mexico,Central America,LATAM
+R2200,Mexico,Central America,LATAM
+R2201,Mexico,Central America,LATAM
+R2202,Mexico,Central America,LATAM
+R2203,Mexico,Central America,LATAM
+R2204,Mexico,Central America,LATAM
+R2205,Mexico,Central America,LATAM
+R2206,Mexico,Central America,LATAM
+R2207,Mexico,Central America,LATAM
+R2208,Mexico,Central America,LATAM
+R2209,Mexico,Central America,LATAM
+R2210,Mexico,Central America,LATAM
+R2211,Mexico,Central America,LATAM
+R2212,Mexico,Central America,LATAM
+R2213,Mexico,Central America,LATAM
+R2214,Mexico,Central America,LATAM
+R2215,Mexico,Central America,LATAM
+R2216,Mexico,Central America,LATAM
+R2217,Mexico,Central America,LATAM
+R2218,Mexico,Central America,LATAM
+R2219,Mexico,Central America,LATAM
+R2220,Mexico,Central America,LATAM
+R2221,Mexico,Central America,LATAM
+R2222,Mexico,Central America,LATAM
+R2223,Mexico,Central America,LATAM
+R2224,Mexico,Central America,LATAM
+R2225,Mexico,Central America,LATAM
+R2226,Mexico,Central America,LATAM
+R2227,Mexico,Central America,LATAM
+R2228,Mexico,Central America,LATAM
+R2229,Mexico,Central America,LATAM
+R2230,Mexico,Central America,LATAM
+R2231,Mexico,Central America,LATAM
+R2232,Mexico,Central America,LATAM
+R2233,Mexico,Central America,LATAM
+R2234,Mexico,Central America,LATAM
+R2235,Mexico,Central America,LATAM
+R2236,Mexico,Central America,LATAM
+R2237,Mexico,Central America,LATAM
+R2238,Mexico,Central America,LATAM
+R2239,Mexico,Central America,LATAM
+R2240,Mexico,Central America,LATAM
+R2241,Mexico,Central America,LATAM
+R2242,Mexico,Central America,LATAM
+R2243,Mexico,Central America,LATAM
+R2244,Mexico,Central America,LATAM
+R2245,Mexico,Central America,LATAM
+R2246,Mexico,Central America,LATAM
+R2247,Mexico,Central America,LATAM
+R2248,Mexico,Central America,LATAM
+R2249,Mexico,Central America,LATAM
+R2250,Mexico,Central America,LATAM
+R2251,Mexico,Central America,LATAM
+R2252,Mexico,Central America,LATAM
+R2253,Moldova,Eastern Europe,Europe
+R2254,Moldova,Eastern Europe,Europe
+R2255,Mongolia,Eastern Asia,Asia Pacific
+R2256,Montenegro,Southern Europe,Europe
+R2257,Morocco,North Africa,Africa
+R2258,Morocco,North Africa,Africa
+R2259,Morocco,North Africa,Africa
+R2260,Morocco,North Africa,Africa
+R2261,Morocco,North Africa,Africa
+R2262,Morocco,North Africa,Africa
+R2263,Morocco,North Africa,Africa
+R2264,Morocco,North Africa,Africa
+R2265,Morocco,North Africa,Africa
+R2266,Morocco,North Africa,Africa
+R2267,Morocco,North Africa,Africa
+R2268,Morocco,North Africa,Africa
+R2269,Morocco,North Africa,Africa
+R2270,Morocco,North Africa,Africa
+R2271,Morocco,North Africa,Africa
+R2272,Morocco,North Africa,Africa
+R2273,Morocco,North Africa,Africa
+R2274,Morocco,North Africa,Africa
+R2275,Morocco,North Africa,Africa
+R2276,Morocco,North Africa,Africa
+R2277,Morocco,North Africa,Africa
+R2278,Morocco,North Africa,Africa
+R2279,Morocco,North Africa,Africa
+R2280,Mozambique,Eastern Africa,Africa
+R2281,Mozambique,Eastern Africa,Africa
+R2282,Mozambique,Eastern Africa,Africa
+R2283,Mozambique,Eastern Africa,Africa
+R2284,Mozambique,Eastern Africa,Africa
+R2285,Mozambique,Eastern Africa,Africa
+R2286,Mozambique,Eastern Africa,Africa
+R2287,Mozambique,Eastern Africa,Africa
+R2288,Mozambique,Eastern Africa,Africa
+R2289,Mozambique,Eastern Africa,Africa
+R2290,Myanmar [Burma],Southeastern Asia,Asia Pacific
+R2291,Namibia,Southern Africa,Africa
+R2292,Nepal,Southern Asia,Asia Pacific
+R2293,Netherlands,Western Europe,Europe
+R2294,Netherlands,Western Europe,Europe
+R2295,Netherlands,Western Europe,Europe
+R2296,Netherlands,Western Europe,Europe
+R2297,Netherlands,Western Europe,Europe
+R2298,Netherlands,Western Europe,Europe
+R2299,Netherlands,Western Europe,Europe
+R2300,Netherlands,Western Europe,Europe
+R2301,Netherlands,Western Europe,Europe
+R2302,Netherlands,Western Europe,Europe
+R2303,Netherlands,Western Europe,Europe
+R2304,Netherlands,Western Europe,Europe
+R2305,Netherlands,Western Europe,Europe
+R2306,Netherlands,Western Europe,Europe
+R2307,Netherlands,Western Europe,Europe
+R2308,Netherlands,Western Europe,Europe
+R2309,Netherlands,Western Europe,Europe
+R2310,Netherlands,Western Europe,Europe
+R2311,Netherlands,Western Europe,Europe
+R2312,Netherlands,Western Europe,Europe
+R2313,Netherlands,Western Europe,Europe
+R2314,Netherlands,Western Europe,Europe
+R2315,Netherlands,Western Europe,Europe
+R2316,Netherlands,Western Europe,Europe
+R2317,Netherlands,Western Europe,Europe
+R2318,Netherlands,Western Europe,Europe
+R2319,Netherlands,Western Europe,Europe
+R2320,Netherlands,Western Europe,Europe
+R2321,Netherlands,Western Europe,Europe
+R2322,Netherlands,Western Europe,Europe
+R2323,Netherlands,Western Europe,Europe
+R2324,Netherlands,Western Europe,Europe
+R2325,Netherlands,Western Europe,Europe
+R2326,Netherlands,Western Europe,Europe
+R2327,Netherlands,Western Europe,Europe
+R2328,Netherlands,Western Europe,Europe
+R2329,Netherlands,Western Europe,Europe
+R2330,Netherlands,Western Europe,Europe
+R2331,Netherlands,Western Europe,Europe
+R2332,Netherlands,Western Europe,Europe
+R2333,Netherlands,Western Europe,Europe
+R2334,Netherlands,Western Europe,Europe
+R2335,Netherlands,Western Europe,Europe
+R2336,Netherlands,Western Europe,Europe
+R2337,Netherlands,Western Europe,Europe
+R2338,Netherlands,Western Europe,Europe
+R2339,Netherlands,Western Europe,Europe
+R2340,Netherlands,Western Europe,Europe
+R2341,Netherlands,Western Europe,Europe
+R2342,Netherlands,Western Europe,Europe
+R2343,Netherlands,Western Europe,Europe
+R2344,Netherlands,Western Europe,Europe
+R2345,Netherlands,Western Europe,Europe
+R2346,Netherlands,Western Europe,Europe
+R2347,New Zealand,Oceania,Asia Pacific
+R2348,New Zealand,Oceania,Asia Pacific
+R2349,New Zealand,Oceania,Asia Pacific
+R2350,New Zealand,Oceania,Asia Pacific
+R2351,New Zealand,Oceania,Asia Pacific
+R2352,New Zealand,Oceania,Asia Pacific
+R2353,New Zealand,Oceania,Asia Pacific
+R2354,New Zealand,Oceania,Asia Pacific
+R2355,New Zealand,Oceania,Asia Pacific
+R2356,New Zealand,Oceania,Asia Pacific
+R2357,New Zealand,Oceania,Asia Pacific
+R2358,New Zealand,Oceania,Asia Pacific
+R2359,New Zealand,Oceania,Asia Pacific
+R2360,New Zealand,Oceania,Asia Pacific
+R2361,New Zealand,Oceania,Asia Pacific
+R2362,New Zealand,Oceania,Asia Pacific
+R2363,New Zealand,Oceania,Asia Pacific
+R2364,New Zealand,Oceania,Asia Pacific
+R2365,New Zealand,Oceania,Asia Pacific
+R2366,New Zealand,Oceania,Asia Pacific
+R2367,New Zealand,Oceania,Asia Pacific
+R2368,New Zealand,Oceania,Asia Pacific
+R2369,New Zealand,Oceania,Asia Pacific
+R2370,New Zealand,Oceania,Asia Pacific
+R2371,New Zealand,Oceania,Asia Pacific
+R2372,New Zealand,Oceania,Asia Pacific
+R2373,New Zealand,Oceania,Asia Pacific
+R2374,New Zealand,Oceania,Asia Pacific
+R2375,New Zealand,Oceania,Asia Pacific
+R2376,Nicaragua,Central America,LATAM
+R2377,Nicaragua,Central America,LATAM
+R2378,Nicaragua,Central America,LATAM
+R2379,Nicaragua,Central America,LATAM
+R2380,Nicaragua,Central America,LATAM
+R2381,Nicaragua,Central America,LATAM
+R2382,Nicaragua,Central America,LATAM
+R2383,Nicaragua,Central America,LATAM
+R2384,Niger,Western Africa,Africa
+R2385,Niger,Western Africa,Africa
+R2386,Niger,Western Africa,Africa
+R2387,Niger,Western Africa,Africa
+R2388,Nigeria,Western Africa,Africa
+R2389,Nigeria,Western Africa,Africa
+R2390,Nigeria,Western Africa,Africa
+R2391,Nigeria,Western Africa,Africa
+R2392,Nigeria,Western Africa,Africa
+R2393,Nigeria,Western Africa,Africa
+R2394,Nigeria,Western Africa,Africa
+R2395,Nigeria,Western Africa,Africa
+R2396,Nigeria,Western Africa,Africa
+R2397,Nigeria,Western Africa,Africa
+R2398,Nigeria,Western Africa,Africa
+R2399,Nigeria,Western Africa,Africa
+R2400,Nigeria,Western Africa,Africa
+R2401,Nigeria,Western Africa,Africa
+R2402,Nigeria,Western Africa,Africa
+R2403,Nigeria,Western Africa,Africa
+R2404,Nigeria,Western Africa,Africa
+R2405,Nigeria,Western Africa,Africa
+R2406,Nigeria,Western Africa,Africa
+R2407,Nigeria,Western Africa,Africa
+R2408,Nigeria,Western Africa,Africa
+R2409,Nigeria,Western Africa,Africa
+R2410,Nigeria,Western Africa,Africa
+R2411,Nigeria,Western Africa,Africa
+R2412,Nigeria,Western Africa,Africa
+R2413,Nigeria,Western Africa,Africa
+R2414,Nigeria,Western Africa,Africa
+R2415,Nigeria,Western Africa,Africa
+R2416,Nigeria,Western Africa,Africa
+R2417,Nigeria,Western Africa,Africa
+R2418,Nigeria,Western Africa,Africa
+R2419,Nigeria,Western Africa,Africa
+R2420,Nigeria,Western Africa,Africa
+R2421,Nigeria,Western Africa,Africa
+R2422,Nigeria,Western Africa,Africa
+R2423,Nigeria,Western Africa,Africa
+R2424,Norway,Northern Europe,Europe
+R2425,Norway,Northern Europe,Europe
+R2426,Norway,Northern Europe,Europe
+R2427,Norway,Northern Europe,Europe
+R2428,Norway,Northern Europe,Europe
+R2429,Norway,Northern Europe,Europe
+R2430,Norway,Northern Europe,Europe
+R2431,Oman,Western Asia,Asia Pacific
+R2432,Pakistan,Southern Asia,Asia Pacific
+R2433,Pakistan,Southern Asia,Asia Pacific
+R2434,Pakistan,Southern Asia,Asia Pacific
+R2435,Pakistan,Southern Asia,Asia Pacific
+R2436,Pakistan,Southern Asia,Asia Pacific
+R2437,Pakistan,Southern Asia,Asia Pacific
+R2438,Pakistan,Southern Asia,Asia Pacific
+R2439,Pakistan,Southern Asia,Asia Pacific
+R2440,Pakistan,Southern Asia,Asia Pacific
+R2441,Pakistan,Southern Asia,Asia Pacific
+R2442,Pakistan,Southern Asia,Asia Pacific
+R2443,Pakistan,Southern Asia,Asia Pacific
+R2444,Pakistan,Southern Asia,Asia Pacific
+R2445,Pakistan,Southern Asia,Asia Pacific
+R2446,Panama,Central America,LATAM
+R2447,Panama,Central America,LATAM
+R2448,Panama,Central America,LATAM
+R2449,Panama,Central America,LATAM
+R2450,Panama,Central America,LATAM
+R2451,Panama,Central America,LATAM
+R2452,Papua New Guinea,Oceania,Asia Pacific
+R2453,Paraguay,South America,LATAM
+R2454,Paraguay,South America,LATAM
+R2455,Paraguay,South America,LATAM
+R2456,Paraguay,South America,LATAM
+R2457,Peru,South America,LATAM
+R2458,Peru,South America,LATAM
+R2459,Peru,South America,LATAM
+R2460,Peru,South America,LATAM
+R2461,Peru,South America,LATAM
+R2462,Peru,South America,LATAM
+R2463,Peru,South America,LATAM
+R2464,Peru,South America,LATAM
+R2465,Peru,South America,LATAM
+R2466,Peru,South America,LATAM
+R2467,Peru,South America,LATAM
+R2468,Peru,South America,LATAM
+R2469,Peru,South America,LATAM
+R2470,Peru,South America,LATAM
+R2471,Peru,South America,LATAM
+R2472,Peru,South America,LATAM
+R2473,Peru,South America,LATAM
+R2474,Peru,South America,LATAM
+R2475,Peru,South America,LATAM
+R2476,Peru,South America,LATAM
+R2477,Philippines,Southeastern Asia,Asia Pacific
+R2478,Philippines,Southeastern Asia,Asia Pacific
+R2479,Philippines,Southeastern Asia,Asia Pacific
+R2480,Philippines,Southeastern Asia,Asia Pacific
+R2481,Philippines,Southeastern Asia,Asia Pacific
+R2482,Philippines,Southeastern Asia,Asia Pacific
+R2483,Philippines,Southeastern Asia,Asia Pacific
+R2484,Philippines,Southeastern Asia,Asia Pacific
+R2485,Philippines,Southeastern Asia,Asia Pacific
+R2486,Philippines,Southeastern Asia,Asia Pacific
+R2487,Philippines,Southeastern Asia,Asia Pacific
+R2488,Philippines,Southeastern Asia,Asia Pacific
+R2489,Philippines,Southeastern Asia,Asia Pacific
+R2490,Philippines,Southeastern Asia,Asia Pacific
+R2491,Philippines,Southeastern Asia,Asia Pacific
+R2492,Philippines,Southeastern Asia,Asia Pacific
+R2493,Philippines,Southeastern Asia,Asia Pacific
+R2494,Philippines,Southeastern Asia,Asia Pacific
+R2495,Poland,Eastern Europe,Europe
+R2496,Poland,Eastern Europe,Europe
+R2497,Poland,Eastern Europe,Europe
+R2498,Poland,Eastern Europe,Europe
+R2499,Poland,Eastern Europe,Europe
+R2500,Poland,Eastern Europe,Europe
+R2501,Poland,Eastern Europe,Europe
+R2502,Poland,Eastern Europe,Europe
+R2503,Poland,Eastern Europe,Europe
+R2504,Poland,Eastern Europe,Europe
+R2505,Poland,Eastern Europe,Europe
+R2506,Poland,Eastern Europe,Europe
+R2507,Poland,Eastern Europe,Europe
+R2508,Poland,Eastern Europe,Europe
+R2509,Poland,Eastern Europe,Europe
+R2510,Poland,Eastern Europe,Europe
+R2511,Poland,Eastern Europe,Europe
+R2512,Poland,Eastern Europe,Europe
+R2513,Poland,Eastern Europe,Europe
+R2514,Poland,Eastern Europe,Europe
+R2515,Poland,Eastern Europe,Europe
+R2516,Poland,Eastern Europe,Europe
+R2517,Poland,Eastern Europe,Europe
+R2518,Poland,Eastern Europe,Europe
+R2519,Poland,Eastern Europe,Europe
+R2520,Poland,Eastern Europe,Europe
+R2521,Poland,Eastern Europe,Europe
+R2522,Poland,Eastern Europe,Europe
+R2523,Poland,Eastern Europe,Europe
+R2524,Poland,Eastern Europe,Europe
+R2525,Poland,Eastern Europe,Europe
+R2526,Poland,Eastern Europe,Europe
+R2527,Poland,Eastern Europe,Europe
+R2528,Poland,Eastern Europe,Europe
+R2529,Portugal,Southern Europe,Europe
+R2530,Portugal,Southern Europe,Europe
+R2531,Portugal,Southern Europe,Europe
+R2532,Portugal,Southern Europe,Europe
+R2533,Portugal,Southern Europe,Europe
+R2534,Portugal,Southern Europe,Europe
+R2535,Portugal,Southern Europe,Europe
+R2536,Portugal,Southern Europe,Europe
+R2537,Portugal,Southern Europe,Europe
+R2538,Portugal,Southern Europe,Europe
+R2539,Portugal,Southern Europe,Europe
+R2540,Qatar,Western Asia,Asia Pacific
+R2541,Romania,Eastern Europe,Europe
+R2542,Romania,Eastern Europe,Europe
+R2543,Romania,Eastern Europe,Europe
+R2544,Romania,Eastern Europe,Europe
+R2545,Romania,Eastern Europe,Europe
+R2546,Romania,Eastern Europe,Europe
+R2547,Romania,Eastern Europe,Europe
+R2548,Romania,Eastern Europe,Europe
+R2549,Romania,Eastern Europe,Europe
+R2550,Romania,Eastern Europe,Europe
+R2551,Romania,Eastern Europe,Europe
+R2552,Romania,Eastern Europe,Europe
+R2553,Romania,Eastern Europe,Europe
+R2554,Romania,Eastern Europe,Europe
+R2555,Romania,Eastern Europe,Europe
+R2556,Romania,Eastern Europe,Europe
+R2557,Romania,Eastern Europe,Europe
+R2558,Romania,Eastern Europe,Europe
+R2559,Romania,Eastern Europe,Europe
+R2560,Romania,Eastern Europe,Europe
+R2561,Romania,Eastern Europe,Europe
+R2562,Romania,Eastern Europe,Europe
+R2563,Romania,Eastern Europe,Europe
+R2564,Romania,Eastern Europe,Europe
+R2565,Romania,Eastern Europe,Europe
+R2566,Romania,Eastern Europe,Europe
+R2567,Romania,Eastern Europe,Europe
+R2568,Romania,Eastern Europe,Europe
+R2569,Romania,Eastern Europe,Europe
+R2570,Romania,Eastern Europe,Europe
+R2571,Romania,Eastern Europe,Europe
+R2572,Russia,Eastern Europe,Europe
+R2573,Russia,Eastern Europe,Europe
+R2574,Russia,Eastern Europe,Europe
+R2575,Russia,Eastern Europe,Europe
+R2576,Russia,Eastern Europe,Europe
+R2577,Russia,Eastern Europe,Europe
+R2578,Russia,Eastern Europe,Europe
+R2579,Russia,Eastern Europe,Europe
+R2580,Russia,Eastern Europe,Europe
+R2581,Russia,Eastern Europe,Europe
+R2582,Russia,Eastern Europe,Europe
+R2583,Russia,Eastern Europe,Europe
+R2584,Russia,Eastern Europe,Europe
+R2585,Russia,Eastern Europe,Europe
+R2586,Russia,Eastern Europe,Europe
+R2587,Russia,Eastern Europe,Europe
+R2588,Russia,Eastern Europe,Europe
+R2589,Russia,Eastern Europe,Europe
+R2590,Russia,Eastern Europe,Europe
+R2591,Russia,Eastern Europe,Europe
+R2592,Russia,Eastern Europe,Europe
+R2593,Russia,Eastern Europe,Europe
+R2594,Russia,Eastern Europe,Europe
+R2595,Russia,Eastern Europe,Europe
+R2596,Russia,Eastern Europe,Europe
+R2597,Russia,Eastern Europe,Europe
+R2598,Russia,Eastern Europe,Europe
+R2599,Russia,Eastern Europe,Europe
+R2600,Russia,Eastern Europe,Europe
+R2601,Russia,Eastern Europe,Europe
+R2602,Russia,Eastern Europe,Europe
+R2603,Russia,Eastern Europe,Europe
+R2604,Russia,Eastern Europe,Europe
+R2605,Russia,Eastern Europe,Europe
+R2606,Russia,Eastern Europe,Europe
+R2607,Russia,Eastern Europe,Europe
+R2608,Russia,Eastern Europe,Europe
+R2609,Russia,Eastern Europe,Europe
+R2610,Russia,Eastern Europe,Europe
+R2611,Russia,Eastern Europe,Europe
+R2612,Russia,Eastern Europe,Europe
+R2613,Rwanda,Eastern Africa,Africa
+R2614,Rwanda,Eastern Africa,Africa
+R2615,Rwanda,Eastern Africa,Africa
+R2616,Saudi Arabia,Western Asia,Asia Pacific
+R2617,Saudi Arabia,Western Asia,Asia Pacific
+R2618,Saudi Arabia,Western Asia,Asia Pacific
+R2619,Saudi Arabia,Western Asia,Asia Pacific
+R2620,Saudi Arabia,Western Asia,Asia Pacific
+R2621,Saudi Arabia,Western Asia,Asia Pacific
+R2622,Saudi Arabia,Western Asia,Asia Pacific
+R2623,Saudi Arabia,Western Asia,Asia Pacific
+R2624,Saudi Arabia,Western Asia,Asia Pacific
+R2625,Saudi Arabia,Western Asia,Asia Pacific
+R2626,Saudi Arabia,Western Asia,Asia Pacific
+R2627,Senegal,Western Africa,Africa
+R2628,Senegal,Western Africa,Africa
+R2629,Senegal,Western Africa,Africa
+R2630,Senegal,Western Africa,Africa
+R2631,Serbia,Eastern Europe,Europe
+R2632,Sierra Leone,Western Africa,Africa
+R2633,Sierra Leone,Western Africa,Africa
+R2634,Sierra Leone,Western Africa,Africa
+R2635,Singapore,Southeastern Asia,Asia Pacific
+R2636,Slovakia,Eastern Europe,Europe
+R2637,Slovakia,Eastern Europe,Europe
+R2638,Slovakia,Eastern Europe,Europe
+R2639,Slovenia,Southern Europe,Europe
+R2640,Somalia,Eastern Africa,Africa
+R2641,Somalia,Eastern Africa,Africa
+R2642,Somalia,Eastern Africa,Africa
+R2643,South Africa,Southern Africa,Africa
+R2644,South Africa,Southern Africa,Africa
+R2645,South Africa,Southern Africa,Africa
+R2646,South Africa,Southern Africa,Africa
+R2647,South Africa,Southern Africa,Africa
+R2648,South Africa,Southern Africa,Africa
+R2649,South Africa,Southern Africa,Africa
+R2650,South Africa,Southern Africa,Africa
+R2651,South Africa,Southern Africa,Africa
+R2652,South Africa,Southern Africa,Africa
+R2653,South Africa,Southern Africa,Africa
+R2654,South Africa,Southern Africa,Africa
+R2655,South Africa,Southern Africa,Africa
+R2656,South Africa,Southern Africa,Africa
+R2657,South Africa,Southern Africa,Africa
+R2658,South Africa,Southern Africa,Africa
+R2659,South Africa,Southern Africa,Africa
+R2660,South Africa,Southern Africa,Africa
+R2661,South Africa,Southern Africa,Africa
+R2662,South Africa,Southern Africa,Africa
+R2663,South Africa,Southern Africa,Africa
+R2664,South Africa,Southern Africa,Africa
+R2665,South Africa,Southern Africa,Africa
+R2666,South Africa,Southern Africa,Africa
+R2667,South Africa,Southern Africa,Africa
+R2668,South Africa,Southern Africa,Africa
+R2669,South Africa,Southern Africa,Africa
+R2670,South Africa,Southern Africa,Africa
+R2671,South Africa,Southern Africa,Africa
+R2672,South Africa,Southern Africa,Africa
+R2673,South Africa,Southern Africa,Africa
+R2674,South Africa,Southern Africa,Africa
+R2675,South Africa,Southern Africa,Africa
+R2676,South Africa,Southern Africa,Africa
+R2677,South Africa,Southern Africa,Africa
+R2678,South Korea,Eastern Asia,Asia Pacific
+R2679,South Korea,Eastern Asia,Asia Pacific
+R2680,South Korea,Eastern Asia,Asia Pacific
+R2681,South Korea,Eastern Asia,Asia Pacific
+R2682,South Korea,Eastern Asia,Asia Pacific
+R2683,South Korea,Eastern Asia,Asia Pacific
+R2684,South Korea,Eastern Asia,Asia Pacific
+R2685,South Korea,Eastern Asia,Asia Pacific
+R2686,South Korea,Eastern Asia,Asia Pacific
+R2687,South Korea,Eastern Asia,Asia Pacific
+R2688,South Korea,Eastern Asia,Asia Pacific
+R2689,South Korea,Eastern Asia,Asia Pacific
+R2690,South Korea,Eastern Asia,Asia Pacific
+R2691,South Korea,Eastern Asia,Asia Pacific
+R2692,Spain,Southern Europe,Europe
+R2693,Spain,Southern Europe,Europe
+R2694,Spain,Southern Europe,Europe
+R2695,Spain,Southern Europe,Europe
+R2696,Spain,Southern Europe,Europe
+R2697,Spain,Southern Europe,Europe
+R2698,Spain,Southern Europe,Europe
+R2699,Spain,Southern Europe,Europe
+R2700,Spain,Southern Europe,Europe
+R2701,Spain,Southern Europe,Europe
+R2702,Spain,Southern Europe,Europe
+R2703,Spain,Southern Europe,Europe
+R2704,Spain,Southern Europe,Europe
+R2705,Spain,Southern Europe,Europe
+R2706,Spain,Southern Europe,Europe
+R2707,Spain,Southern Europe,Europe
+R2708,Spain,Southern Europe,Europe
+R2709,Spain,Southern Europe,Europe
+R2710,Spain,Southern Europe,Europe
+R2711,Spain,Southern Europe,Europe
+R2712,Spain,Southern Europe,Europe
+R2713,Spain,Southern Europe,Europe
+R2714,Spain,Southern Europe,Europe
+R2715,Spain,Southern Europe,Europe
+R2716,Spain,Southern Europe,Europe
+R2717,Spain,Southern Europe,Europe
+R2718,Spain,Southern Europe,Europe
+R2719,Spain,Southern Europe,Europe
+R2720,Spain,Southern Europe,Europe
+R2721,Spain,Southern Europe,Europe
+R2722,Spain,Southern Europe,Europe
+R2723,Spain,Southern Europe,Europe
+R2724,Spain,Southern Europe,Europe
+R2725,Spain,Southern Europe,Europe
+R2726,Spain,Southern Europe,Europe
+R2727,Spain,Southern Europe,Europe
+R2728,Spain,Southern Europe,Europe
+R2729,Spain,Southern Europe,Europe
+R2730,Spain,Southern Europe,Europe
+R2731,Spain,Southern Europe,Europe
+R2732,Spain,Southern Europe,Europe
+R2733,Spain,Southern Europe,Europe
+R2734,Spain,Southern Europe,Europe
+R2735,Spain,Southern Europe,Europe
+R2736,Spain,Southern Europe,Europe
+R2737,Spain,Southern Europe,Europe
+R2738,Spain,Southern Europe,Europe
+R2739,Spain,Southern Europe,Europe
+R2740,Spain,Southern Europe,Europe
+R2741,Spain,Southern Europe,Europe
+R2742,Spain,Southern Europe,Europe
+R2743,Spain,Southern Europe,Europe
+R2744,Spain,Southern Europe,Europe
+R2745,Spain,Southern Europe,Europe
+R2746,Spain,Southern Europe,Europe
+R2747,Spain,Southern Europe,Europe
+R2748,Spain,Southern Europe,Europe
+R2749,Spain,Southern Europe,Europe
+R2750,Spain,Southern Europe,Europe
+R2751,Spain,Southern Europe,Europe
+R2752,Spain,Southern Europe,Europe
+R2753,Spain,Southern Europe,Europe
+R2754,Spain,Southern Europe,Europe
+R2755,Spain,Southern Europe,Europe
+R2756,Spain,Southern Europe,Europe
+R2757,Spain,Southern Europe,Europe
+R2758,Spain,Southern Europe,Europe
+R2759,Spain,Southern Europe,Europe
+R2760,Spain,Southern Europe,Europe
+R2761,Spain,Southern Europe,Europe
+R2762,Spain,Southern Europe,Europe
+R2763,Spain,Southern Europe,Europe
+R2764,Spain,Southern Europe,Europe
+R2765,Spain,Southern Europe,Europe
+R2766,Spain,Southern Europe,Europe
+R2767,Spain,Southern Europe,Europe
+R2768,Spain,Southern Europe,Europe
+R2769,Spain,Southern Europe,Europe
+R2770,Spain,Southern Europe,Europe
+R2771,Spain,Southern Europe,Europe
+R2772,Spain,Southern Europe,Europe
+R2773,Sri Lanka,Southern Asia,Asia Pacific
+R2774,Sudan,North Africa,Africa
+R2775,Sudan,North Africa,Africa
+R2776,Sudan,North Africa,Africa
+R2777,Sudan,North Africa,Africa
+R2778,Sudan,North Africa,Africa
+R2779,Sudan,North Africa,Africa
+R2780,Sudan,Eastern Africa,Africa
+R2781,Suriname,South America,LATAM
+R2782,Swaziland,Southern Africa,Africa
+R2783,Sweden,Northern Europe,Europe
+R2784,Sweden,Northern Europe,Europe
+R2785,Sweden,Northern Europe,Europe
+R2786,Sweden,Northern Europe,Europe
+R2787,Sweden,Northern Europe,Europe
+R2788,Sweden,Northern Europe,Europe
+R2789,Sweden,Northern Europe,Europe
+R2790,Sweden,Northern Europe,Europe
+R2791,Sweden,Northern Europe,Europe
+R2792,Sweden,Northern Europe,Europe
+R2793,Sweden,Northern Europe,Europe
+R2794,Sweden,Northern Europe,Europe
+R2795,Sweden,Northern Europe,Europe
+R2796,Sweden,Northern Europe,Europe
+R2797,Switzerland,Western Europe,Europe
+R2798,Switzerland,Western Europe,Europe
+R2799,Switzerland,Western Europe,Europe
+R2800,Switzerland,Western Europe,Europe
+R2801,Switzerland,Western Europe,Europe
+R2802,Switzerland,Western Europe,Europe
+R2803,Switzerland,Western Europe,Europe
+R2804,Switzerland,Western Europe,Europe
+R2805,Syria,Western Asia,Asia Pacific
+R2806,Syria,Western Asia,Asia Pacific
+R2807,Syria,Western Asia,Asia Pacific
+R2808,Taiwan,Eastern Asia,Asia Pacific
+R2809,Tajikistan,Central Asia,Asia Pacific
+R2810,Tanzania,Eastern Africa,Africa
+R2811,Tanzania,Eastern Africa,Africa
+R2812,Tanzania,Eastern Africa,Africa
+R2813,Tanzania,Eastern Africa,Africa
+R2814,Tanzania,Eastern Africa,Africa
+R2815,Tanzania,Eastern Africa,Africa
+R2816,Tanzania,Eastern Africa,Africa
+R2817,Tanzania,Eastern Africa,Africa
+R2818,Tanzania,Eastern Africa,Africa
+R2819,Tanzania,Eastern Africa,Africa
+R2820,Tanzania,Eastern Africa,Africa
+R2821,Tanzania,Eastern Africa,Africa
+R2822,Tanzania,Eastern Africa,Africa
+R2823,Tanzania,Eastern Africa,Africa
+R2824,Tanzania,Eastern Africa,Africa
+R2825,Tanzania,Eastern Africa,Africa
+R2826,Tanzania,Eastern Africa,Africa
+R2827,Tanzania,Eastern Africa,Africa
+R2828,Thailand,Southeastern Asia,Asia Pacific
+R2829,Thailand,Southeastern Asia,Asia Pacific
+R2830,Togo,Western Africa,Africa
+R2831,Togo,Western Africa,Africa
+R2832,Togo,Western Africa,Africa
+R2833,Togo,Western Africa,Africa
+R2834,Trinidad and Tobago,Caribbean,LATAM
+R2835,Trinidad and Tobago,Caribbean,LATAM
+R2836,Tunisia,North Africa,Africa
+R2837,Turkey,Western Asia,Asia Pacific
+R2838,Turkey,Western Asia,Asia Pacific
+R2839,Turkey,Western Asia,Asia Pacific
+R2840,Turkey,Western Asia,Asia Pacific
+R2841,Turkey,Western Asia,Asia Pacific
+R2842,Turkey,Western Asia,Asia Pacific
+R2843,Turkey,Western Asia,Asia Pacific
+R2844,Turkey,Western Asia,Asia Pacific
+R2845,Turkey,Western Asia,Asia Pacific
+R2846,Turkey,Western Asia,Asia Pacific
+R2847,Turkey,Western Asia,Asia Pacific
+R2848,Turkey,Western Asia,Asia Pacific
+R2849,Turkey,Western Asia,Asia Pacific
+R2850,Turkey,Western Asia,Asia Pacific
+R2851,Turkey,Western Asia,Asia Pacific
+R2852,Turkey,Western Asia,Asia Pacific
+R2853,Turkey,Western Asia,Asia Pacific
+R2854,Turkey,Western Asia,Asia Pacific
+R2855,Turkey,Western Asia,Asia Pacific
+R2856,Turkey,Western Asia,Asia Pacific
+R2857,Turkey,Western Asia,Asia Pacific
+R2858,Turkey,Western Asia,Asia Pacific
+R2859,Turkey,Western Asia,Asia Pacific
+R2860,Turkey,Western Asia,Asia Pacific
+R2861,Turkey,Western Asia,Asia Pacific
+R2862,Turkey,Western Asia,Asia Pacific
+R2863,Turkey,Western Asia,Asia Pacific
+R2864,Turkey,Western Asia,Asia Pacific
+R2865,Turkey,Western Asia,Asia Pacific
+R2866,Turkey,Western Asia,Asia Pacific
+R2867,Turkey,Western Asia,Asia Pacific
+R2868,Turkey,Western Asia,Asia Pacific
+R2869,Turkey,Western Asia,Asia Pacific
+R2870,Turkey,Western Asia,Asia Pacific
+R2871,Turkey,Western Asia,Asia Pacific
+R2872,Turkey,Western Asia,Asia Pacific
+R2873,Turkey,Western Asia,Asia Pacific
+R2874,Turkey,Western Asia,Asia Pacific
+R2875,Turkey,Western Asia,Asia Pacific
+R2876,Turkey,Western Asia,Asia Pacific
+R2877,Turkey,Western Asia,Asia Pacific
+R2878,Turkey,Western Asia,Asia Pacific
+R2879,Turkey,Western Asia,Asia Pacific
+R2880,Turkey,Western Asia,Asia Pacific
+R2881,Turkey,Western Asia,Asia Pacific
+R2882,Turkey,Western Asia,Asia Pacific
+R2883,Turkey,Western Asia,Asia Pacific
+R2884,Turkey,Western Asia,Asia Pacific
+R2885,Turkey,Western Asia,Asia Pacific
+R2886,Turkey,Western Asia,Asia Pacific
+R2887,Turkey,Western Asia,Asia Pacific
+R2888,Turkey,Western Asia,Asia Pacific
+R2889,Turkey,Western Asia,Asia Pacific
+R2890,Turkey,Western Asia,Asia Pacific
+R2891,Turkey,Western Asia,Asia Pacific
+R2892,Turkey,Western Asia,Asia Pacific
+R2893,Turkey,Western Asia,Asia Pacific
+R2894,Turkey,Western Asia,Asia Pacific
+R2895,Turkey,Western Asia,Asia Pacific
+R2896,Turkey,Western Asia,Asia Pacific
+R2897,Turkey,Western Asia,Asia Pacific
+R2898,Turkey,Western Asia,Asia Pacific
+R2899,Turkey,Western Asia,Asia Pacific
+R2900,Turkey,Western Asia,Asia Pacific
+R2901,Turkey,Western Asia,Asia Pacific
+R2902,Turkey,Western Asia,Asia Pacific
+R2903,Turkey,Western Asia,Asia Pacific
+R2904,Turkey,Western Asia,Asia Pacific
+R2905,Turkey,Western Asia,Asia Pacific
+R2906,Turkey,Western Asia,Asia Pacific
+R2907,Turkey,Western Asia,Asia Pacific
+R2908,Turkey,Western Asia,Asia Pacific
+R2909,Turkey,Western Asia,Asia Pacific
+R2910,Turkey,Western Asia,Asia Pacific
+R2911,Turkey,Western Asia,Asia Pacific
+R2912,Turkey,Western Asia,Asia Pacific
+R2913,Turkey,Western Asia,Asia Pacific
+R2914,Turkey,Western Asia,Asia Pacific
+R2915,Turkey,Western Asia,Asia Pacific
+R2916,Turkey,Western Asia,Asia Pacific
+R2917,Turkey,Western Asia,Asia Pacific
+R2918,Turkey,Western Asia,Asia Pacific
+R2919,Turkey,Western Asia,Asia Pacific
+R2920,Turkey,Western Asia,Asia Pacific
+R2921,Turkey,Western Asia,Asia Pacific
+R2922,Turkey,Western Asia,Asia Pacific
+R2923,Turkey,Western Asia,Asia Pacific
+R2924,Turkey,Western Asia,Asia Pacific
+R2925,Turkey,Western Asia,Asia Pacific
+R2926,Turkey,Western Asia,Asia Pacific
+R2927,Turkey,Western Asia,Asia Pacific
+R2928,Turkey,Western Asia,Asia Pacific
+R2929,Turkey,Western Asia,Asia Pacific
+R2930,Turkey,Western Asia,Asia Pacific
+R2931,Turkey,Western Asia,Asia Pacific
+R2932,Turkey,Western Asia,Asia Pacific
+R2933,Turkey,Western Asia,Asia Pacific
+R2934,Turkey,Western Asia,Asia Pacific
+R2935,Turkey,Western Asia,Asia Pacific
+R2936,Turkey,Western Asia,Asia Pacific
+R2937,Turkey,Western Asia,Asia Pacific
+R2938,Turkmenistan,Central Asia,Asia Pacific
+R2939,Turkmenistan,Central Asia,Asia Pacific
+R2940,Turkmenistan,Central Asia,Asia Pacific
+R2941,Uganda,Eastern Africa,Africa
+R2942,Uganda,Eastern Africa,Africa
+R2943,Uganda,Eastern Africa,Africa
+R2944,Uganda,Eastern Africa,Africa
+R2945,Ukraine,Eastern Europe,Europe
+R2946,Ukraine,Eastern Europe,Europe
+R2947,Ukraine,Eastern Europe,Europe
+R2948,Ukraine,Eastern Europe,Europe
+R2949,Ukraine,Eastern Europe,Europe
+R2950,Ukraine,Eastern Europe,Europe
+R2951,Ukraine,Eastern Europe,Europe
+R2952,Ukraine,Eastern Europe,Europe
+R2953,Ukraine,Eastern Europe,Europe
+R2954,Ukraine,Eastern Europe,Europe
+R2955,Ukraine,Eastern Europe,Europe
+R2956,Ukraine,Eastern Europe,Europe
+R2957,Ukraine,Eastern Europe,Europe
+R2958,Ukraine,Eastern Europe,Europe
+R2959,Ukraine,Eastern Europe,Europe
+R2960,Ukraine,Eastern Europe,Europe
+R2961,Ukraine,Eastern Europe,Europe
+R2962,Ukraine,Eastern Europe,Europe
+R2963,Ukraine,Eastern Europe,Europe
+R2964,Ukraine,Eastern Europe,Europe
+R2965,Ukraine,Eastern Europe,Europe
+R2966,Ukraine,Eastern Europe,Europe
+R2967,Ukraine,Eastern Europe,Europe
+R2968,Ukraine,Eastern Europe,Europe
+R2969,Ukraine,Eastern Europe,Europe
+R2970,Ukraine,Eastern Europe,Europe
+R2971,Ukraine,Eastern Europe,Europe
+R2972,Ukraine,Eastern Europe,Europe
+R2973,Ukraine,Eastern Europe,Europe
+R2974,Ukraine,Eastern Europe,Europe
+R2975,Ukraine,Eastern Europe,Europe
+R2976,Ukraine,Eastern Europe,Europe
+R2977,Ukraine,Eastern Europe,Europe
+R2978,Ukraine,Eastern Europe,Europe
+R2979,Ukraine,Eastern Europe,Europe
+R2980,Ukraine,Eastern Europe,Europe
+R2981,Ukraine,Eastern Europe,Europe
+R2982,Ukraine,Eastern Europe,Europe
+R2983,Ukraine,Eastern Europe,Europe
+R2984,United Arab Emirates,Western Asia,Asia Pacific
+R2985,United Arab Emirates,Western Asia,Asia Pacific
+R2986,United Kingdom,Northern Europe,Europe
+R2987,United Kingdom,Northern Europe,Europe
+R2988,United Kingdom,Northern Europe,Europe
+R2989,United Kingdom,Northern Europe,Europe
+R2990,United Kingdom,Northern Europe,Europe
+R2991,United Kingdom,Northern Europe,Europe
+R2992,United Kingdom,Northern Europe,Europe
+R2993,United Kingdom,Northern Europe,Europe
+R2994,United Kingdom,Northern Europe,Europe
+R2995,United Kingdom,Northern Europe,Europe
+R2996,United Kingdom,Northern Europe,Europe
+R2997,United Kingdom,Northern Europe,Europe
+R2998,United Kingdom,Northern Europe,Europe
+R2999,United Kingdom,Northern Europe,Europe
+R3000,United Kingdom,Northern Europe,Europe
+R3001,United Kingdom,Northern Europe,Europe
+R3002,United Kingdom,Northern Europe,Europe
+R3003,United Kingdom,Northern Europe,Europe
+R3004,United Kingdom,Northern Europe,Europe
+R3005,United Kingdom,Northern Europe,Europe
+R3006,United Kingdom,Northern Europe,Europe
+R3007,United Kingdom,Northern Europe,Europe
+R3008,United Kingdom,Northern Europe,Europe
+R3009,United Kingdom,Northern Europe,Europe
+R3010,United Kingdom,Northern Europe,Europe
+R3011,United Kingdom,Northern Europe,Europe
+R3012,United Kingdom,Northern Europe,Europe
+R3013,United Kingdom,Northern Europe,Europe
+R3014,United Kingdom,Northern Europe,Europe
+R3015,United Kingdom,Northern Europe,Europe
+R3016,United Kingdom,Northern Europe,Europe
+R3017,United Kingdom,Northern Europe,Europe
+R3018,United Kingdom,Northern Europe,Europe
+R3019,United Kingdom,Northern Europe,Europe
+R3020,United Kingdom,Northern Europe,Europe
+R3021,United Kingdom,Northern Europe,Europe
+R3022,United Kingdom,Northern Europe,Europe
+R3023,United Kingdom,Northern Europe,Europe
+R3024,United Kingdom,Northern Europe,Europe
+R3025,United Kingdom,Northern Europe,Europe
+R3026,United Kingdom,Northern Europe,Europe
+R3027,United Kingdom,Northern Europe,Europe
+R3028,United Kingdom,Northern Europe,Europe
+R3029,United Kingdom,Northern Europe,Europe
+R3030,United Kingdom,Northern Europe,Europe
+R3031,United Kingdom,Northern Europe,Europe
+R3032,United Kingdom,Northern Europe,Europe
+R3033,United Kingdom,Northern Europe,Europe
+R3034,United Kingdom,Northern Europe,Europe
+R3035,United Kingdom,Northern Europe,Europe
+R3036,United Kingdom,Northern Europe,Europe
+R3037,United Kingdom,Northern Europe,Europe
+R3038,United Kingdom,Northern Europe,Europe
+R3039,United Kingdom,Northern Europe,Europe
+R3040,United Kingdom,Northern Europe,Europe
+R3041,United Kingdom,Northern Europe,Europe
+R3042,United Kingdom,Northern Europe,Europe
+R3043,United Kingdom,Northern Europe,Europe
+R3044,United Kingdom,Northern Europe,Europe
+R3045,United Kingdom,Northern Europe,Europe
+R3046,United Kingdom,Northern Europe,Europe
+R3047,United Kingdom,Northern Europe,Europe
+R3048,United Kingdom,Northern Europe,Europe
+R3049,United Kingdom,Northern Europe,Europe
+R3050,United Kingdom,Northern Europe,Europe
+R3051,United Kingdom,Northern Europe,Europe
+R3052,United Kingdom,Northern Europe,Europe
+R3053,United Kingdom,Northern Europe,Europe
+R3054,United Kingdom,Northern Europe,Europe
+R3055,United Kingdom,Northern Europe,Europe
+R3056,United Kingdom,Northern Europe,Europe
+R3057,United Kingdom,Northern Europe,Europe
+R3058,United Kingdom,Northern Europe,Europe
+R3059,United Kingdom,Northern Europe,Europe
+R3060,United Kingdom,Northern Europe,Europe
+R3061,United Kingdom,Northern Europe,Europe
+R3062,United Kingdom,Northern Europe,Europe
+R3063,United Kingdom,Northern Europe,Europe
+R3064,United Kingdom,Northern Europe,Europe
+R3065,United Kingdom,Northern Europe,Europe
+R3066,United Kingdom,Northern Europe,Europe
+R3067,United Kingdom,Northern Europe,Europe
+R3068,United Kingdom,Northern Europe,Europe
+R3069,United Kingdom,Northern Europe,Europe
+R3070,United Kingdom,Northern Europe,Europe
+R3071,United Kingdom,Northern Europe,Europe
+R3072,United Kingdom,Northern Europe,Europe
+R3073,United Kingdom,Northern Europe,Europe
+R3074,United Kingdom,Northern Europe,Europe
+R3075,United Kingdom,Northern Europe,Europe
+R3076,United Kingdom,Northern Europe,Europe
+R3077,United Kingdom,Northern Europe,Europe
+R3078,United Kingdom,Northern Europe,Europe
+R3079,United Kingdom,Northern Europe,Europe
+R3080,United Kingdom,Northern Europe,Europe
+R3081,United Kingdom,Northern Europe,Europe
+R3082,United Kingdom,Northern Europe,Europe
+R3083,United Kingdom,Northern Europe,Europe
+R3084,United Kingdom,Northern Europe,Europe
+R3085,United Kingdom,Northern Europe,Europe
+R3086,United Kingdom,Northern Europe,Europe
+R3087,United Kingdom,Northern Europe,Europe
+R3088,United Kingdom,Northern Europe,Europe
+R3089,United Kingdom,Northern Europe,Europe
+R3090,United Kingdom,Northern Europe,Europe
+R3091,United Kingdom,Northern Europe,Europe
+R3092,United Kingdom,Northern Europe,Europe
+R3093,United Kingdom,Northern Europe,Europe
+R3094,United Kingdom,Northern Europe,Europe
+R3095,United Kingdom,Northern Europe,Europe
+R3096,United Kingdom,Northern Europe,Europe
+R3097,United Kingdom,Northern Europe,Europe
+R3098,United Kingdom,Northern Europe,Europe
+R3099,United Kingdom,Northern Europe,Europe
+R3100,United Kingdom,Northern Europe,Europe
+R3101,United Kingdom,Northern Europe,Europe
+R3102,United Kingdom,Northern Europe,Europe
+R3103,United Kingdom,Northern Europe,Europe
+R3104,United Kingdom,Northern Europe,Europe
+R3105,United Kingdom,Northern Europe,Europe
+R3106,United Kingdom,Northern Europe,Europe
+R3107,United Kingdom,Northern Europe,Europe
+R3108,United Kingdom,Northern Europe,Europe
+R3109,United Kingdom,Northern Europe,Europe
+R3110,United Kingdom,Northern Europe,Europe
+R3111,United Kingdom,Northern Europe,Europe
+R3112,United Kingdom,Northern Europe,Europe
+R3113,United Kingdom,Northern Europe,Europe
+R3114,United Kingdom,Northern Europe,Europe
+R3115,United Kingdom,Northern Europe,Europe
+R3116,United Kingdom,Northern Europe,Europe
+R3117,United Kingdom,Northern Europe,Europe
+R3118,United Kingdom,Northern Europe,Europe
+R3119,United Kingdom,Northern Europe,Europe
+R3120,United Kingdom,Northern Europe,Europe
+R3121,United Kingdom,Northern Europe,Europe
+R3122,United Kingdom,Northern Europe,Europe
+R3123,United Kingdom,Northern Europe,Europe
+R3124,United Kingdom,Northern Europe,Europe
+R3125,United Kingdom,Northern Europe,Europe
+R3126,United Kingdom,Northern Europe,Europe
+R3127,United Kingdom,Northern Europe,Europe
+R3128,United Kingdom,Northern Europe,Europe
+R3129,United Kingdom,Northern Europe,Europe
+R3130,United Kingdom,Northern Europe,Europe
+R3131,United Kingdom,Northern Europe,Europe
+R3132,United Kingdom,Northern Europe,Europe
+R3133,United Kingdom,Northern Europe,Europe
+R3134,United Kingdom,Northern Europe,Europe
+R3135,United Kingdom,Northern Europe,Europe
+R3136,United Kingdom,Northern Europe,Europe
+R3137,United Kingdom,Northern Europe,Europe
+R3138,United Kingdom,Northern Europe,Europe
+R3139,United Kingdom,Northern Europe,Europe
+R3140,United Kingdom,Northern Europe,Europe
+R3141,United Kingdom,Northern Europe,Europe
+R3142,United Kingdom,Northern Europe,Europe
+R3143,United Kingdom,Northern Europe,Europe
+R3144,United Kingdom,Northern Europe,Europe
+R3145,United Kingdom,Northern Europe,Europe
+R3146,United Kingdom,Northern Europe,Europe
+R3147,United Kingdom,Northern Europe,Europe
+R3148,United Kingdom,Northern Europe,Europe
+R3149,United Kingdom,Northern Europe,Europe
+R3150,United States,Southern US,USCA
+R3151,United States,Western US,USCA
+R3152,United States,Central US,USCA
+R3153,United States,Central US,USCA
+R3154,United States,Central US,USCA
+R3155,United States,Western US,USCA
+R3156,United States,Central US,USCA
+R3157,United States,Central US,USCA
+R3158,United States,Central US,USCA
+R3159,United States,Southern US,USCA
+R3160,United States,Central US,USCA
+R3161,United States,Eastern US,USCA
+R3162,United States,Southern US,USCA
+R3163,United States,Western US,USCA
+R3164,United States,Eastern US,USCA
+R3165,United States,Western US,USCA
+R3166,United States,Western US,USCA
+R3167,United States,Western US,USCA
+R3168,United States,Western US,USCA
+R3169,United States,Eastern US,USCA
+R3170,United States,Western US,USCA
+R3171,United States,Southern US,USCA
+R3172,United States,Central US,USCA
+R3173,United States,Central US,USCA
+R3174,United States,Eastern US,USCA
+R3175,United States,Southern US,USCA
+R3176,United States,Western US,USCA
+R3177,United States,Central US,USCA
+R3178,United States,Eastern US,USCA
+R3179,United States,Central US,USCA
+R3180,United States,Southern US,USCA
+R3181,United States,Southern US,USCA
+R3182,United States,Southern US,USCA
+R3183,United States,Central US,USCA
+R3184,United States,Eastern US,USCA
+R3185,United States,Southern US,USCA
+R3186,United States,Southern US,USCA
+R3187,United States,Southern US,USCA
+R3188,United States,Eastern US,USCA
+R3189,United States,Central US,USCA
+R3190,United States,Southern US,USCA
+R3191,United States,Southern US,USCA
+R3192,United States,Eastern US,USCA
+R3193,United States,Western US,USCA
+R3194,United States,Western US,USCA
+R3195,United States,Eastern US,USCA
+R3196,United States,Southern US,USCA
+R3197,United States,Eastern US,USCA
+R3198,United States,Western US,USCA
+R3199,United States,Western US,USCA
+R3200,United States,Central US,USCA
+R3201,United States,Eastern US,USCA
+R3202,United States,Central US,USCA
+R3203,United States,Central US,USCA
+R3204,United States,Western US,USCA
+R3205,United States,Southern US,USCA
+R3206,United States,Western US,USCA
+R3207,United States,Southern US,USCA
+R3208,United States,Southern US,USCA
+R3209,United States,Eastern US,USCA
+R3210,United States,Southern US,USCA
+R3211,United States,Southern US,USCA
+R3212,United States,Central US,USCA
+R3213,United States,Eastern US,USCA
+R3214,United States,Eastern US,USCA
+R3215,United States,Western US,USCA
+R3216,United States,Western US,USCA
+R3217,United States,Eastern US,USCA
+R3218,United States,Southern US,USCA
+R3219,United States,Eastern US,USCA
+R3220,United States,Western US,USCA
+R3221,United States,Central US,USCA
+R3222,United States,Western US,USCA
+R3223,United States,Western US,USCA
+R3224,United States,Southern US,USCA
+R3225,United States,Southern US,USCA
+R3226,United States,Eastern US,USCA
+R3227,United States,Central US,USCA
+R3228,United States,Southern US,USCA
+R3229,United States,Western US,USCA
+R3230,United States,Central US,USCA
+R3231,United States,Eastern US,USCA
+R3232,United States,Western US,USCA
+R3233,United States,Eastern US,USCA
+R3234,United States,Western US,USCA
+R3235,United States,Southern US,USCA
+R3236,United States,Eastern US,USCA
+R3237,United States,Central US,USCA
+R3238,United States,Western US,USCA
+R3239,United States,Southern US,USCA
+R3240,United States,Eastern US,USCA
+R3241,United States,Central US,USCA
+R3242,United States,Western US,USCA
+R3243,United States,Central US,USCA
+R3244,United States,Southern US,USCA
+R3245,United States,Western US,USCA
+R3246,United States,Western US,USCA
+R3247,United States,Western US,USCA
+R3248,United States,Central US,USCA
+R3249,United States,Southern US,USCA
+R3250,United States,Southern US,USCA
+R3251,United States,Central US,USCA
+R3252,United States,Western US,USCA
+R3253,United States,Central US,USCA
+R3254,United States,Western US,USCA
+R3255,United States,Eastern US,USCA
+R3256,United States,Central US,USCA
+R3257,United States,Eastern US,USCA
+R3258,United States,Southern US,USCA
+R3259,United States,Western US,USCA
+R3260,United States,Central US,USCA
+R3261,United States,Eastern US,USCA
+R3262,United States,Eastern US,USCA
+R3263,United States,Central US,USCA
+R3264,United States,Southern US,USCA
+R3265,United States,Southern US,USCA
+R3266,United States,Central US,USCA
+R3267,United States,Central US,USCA
+R3268,United States,Western US,USCA
+R3269,United States,Southern US,USCA
+R3270,United States,Western US,USCA
+R3271,United States,Western US,USCA
+R3272,United States,Eastern US,USCA
+R3273,United States,Eastern US,USCA
+R3274,United States,Southern US,USCA
+R3275,United States,Eastern US,USCA
+R3276,United States,Central US,USCA
+R3277,United States,Central US,USCA
+R3278,United States,Western US,USCA
+R3279,United States,Central US,USCA
+R3280,United States,Southern US,USCA
+R3281,United States,Central US,USCA
+R3282,United States,Western US,USCA
+R3283,United States,Southern US,USCA
+R3284,United States,Southern US,USCA
+R3285,United States,Southern US,USCA
+R3286,United States,Southern US,USCA
+R3287,United States,Central US,USCA
+R3288,United States,Western US,USCA
+R3289,United States,Central US,USCA
+R3290,United States,Western US,USCA
+R3291,United States,Western US,USCA
+R3292,United States,Central US,USCA
+R3293,United States,Western US,USCA
+R3294,United States,Central US,USCA
+R3295,United States,Western US,USCA
+R3296,United States,Central US,USCA
+R3297,United States,Southern US,USCA
+R3298,United States,Central US,USCA
+R3299,United States,Eastern US,USCA
+R3300,United States,Eastern US,USCA
+R3301,United States,Central US,USCA
+R3302,United States,Eastern US,USCA
+R3303,United States,Central US,USCA
+R3304,United States,Western US,USCA
+R3305,United States,Southern US,USCA
+R3306,United States,Eastern US,USCA
+R3307,United States,Southern US,USCA
+R3308,United States,Eastern US,USCA
+R3309,United States,Central US,USCA
+R3310,United States,Southern US,USCA
+R3311,United States,Western US,USCA
+R3312,United States,Central US,USCA
+R3313,United States,Western US,USCA
+R3314,United States,Central US,USCA
+R3315,United States,Western US,USCA
+R3316,United States,Central US,USCA
+R3317,United States,Eastern US,USCA
+R3318,United States,Eastern US,USCA
+R3319,United States,Eastern US,USCA
+R3320,United States,Southern US,USCA
+R3321,United States,Eastern US,USCA
+R3322,United States,Eastern US,USCA
+R3323,United States,Eastern US,USCA
+R3324,United States,Eastern US,USCA
+R3325,United States,Central US,USCA
+R3326,United States,Western US,USCA
+R3327,United States,Southern US,USCA
+R3328,United States,Central US,USCA
+R3329,United States,Eastern US,USCA
+R3330,United States,Western US,USCA
+R3331,United States,Eastern US,USCA
+R3332,United States,Western US,USCA
+R3333,United States,Central US,USCA
+R3334,United States,Central US,USCA
+R3335,United States,Southern US,USCA
+R3336,United States,Southern US,USCA
+R3337,United States,Eastern US,USCA
+R3338,United States,Central US,USCA
+R3339,United States,Central US,USCA
+R3340,United States,Western US,USCA
+R3341,United States,Eastern US,USCA
+R3342,United States,Western US,USCA
+R3343,United States,Southern US,USCA
+R3344,United States,Western US,USCA
+R3345,United States,Southern US,USCA
+R3346,United States,Central US,USCA
+R3347,United States,Eastern US,USCA
+R3348,United States,Central US,USCA
+R3349,United States,Central US,USCA
+R3350,United States,Western US,USCA
+R3351,United States,Central US,USCA
+R3352,United States,Eastern US,USCA
+R3353,United States,Western US,USCA
+R3354,United States,Western US,USCA
+R3355,United States,Southern US,USCA
+R3356,United States,Central US,USCA
+R3357,United States,Eastern US,USCA
+R3358,United States,Central US,USCA
+R3359,United States,Western US,USCA
+R3360,United States,Eastern US,USCA
+R3361,United States,Central US,USCA
+R3362,United States,Southern US,USCA
+R3363,United States,Southern US,USCA
+R3364,United States,Central US,USCA
+R3365,United States,Western US,USCA
+R3366,United States,Central US,USCA
+R3367,United States,Southern US,USCA
+R3368,United States,Central US,USCA
+R3369,United States,Central US,USCA
+R3370,United States,Central US,USCA
+R3371,United States,Western US,USCA
+R3372,United States,Southern US,USCA
+R3373,United States,Southern US,USCA
+R3374,United States,Southern US,USCA
+R3375,United States,Western US,USCA
+R3376,United States,Central US,USCA
+R3377,United States,Central US,USCA
+R3378,United States,Western US,USCA
+R3379,United States,Southern US,USCA
+R3380,United States,Eastern US,USCA
+R3381,United States,Central US,USCA
+R3382,United States,Southern US,USCA
+R3383,United States,Eastern US,USCA
+R3384,United States,Southern US,USCA
+R3385,United States,Western US,USCA
+R3386,United States,Western US,USCA
+R3387,United States,Central US,USCA
+R3388,United States,Southern US,USCA
+R3389,United States,Eastern US,USCA
+R3390,United States,Eastern US,USCA
+R3391,United States,Southern US,USCA
+R3392,United States,Western US,USCA
+R3393,United States,Central US,USCA
+R3394,United States,Central US,USCA
+R3395,United States,Western US,USCA
+R3396,United States,Southern US,USCA
+R3397,United States,Western US,USCA
+R3398,United States,Western US,USCA
+R3399,United States,Eastern US,USCA
+R3400,United States,Eastern US,USCA
+R3401,United States,Central US,USCA
+R3402,United States,Western US,USCA
+R3403,United States,Western US,USCA
+R3404,United States,Western US,USCA
+R3405,United States,Western US,USCA
+R3406,United States,Eastern US,USCA
+R3407,United States,Western US,USCA
+R3408,United States,Southern US,USCA
+R3409,United States,Southern US,USCA
+R3410,United States,Southern US,USCA
+R3411,United States,Southern US,USCA
+R3412,United States,Western US,USCA
+R3413,United States,Central US,USCA
+R3414,United States,Eastern US,USCA
+R3415,United States,Western US,USCA
+R3416,United States,Western US,USCA
+R3417,United States,Southern US,USCA
+R3418,United States,Western US,USCA
+R3419,United States,Southern US,USCA
+R3420,United States,Western US,USCA
+R3421,United States,Western US,USCA
+R3422,United States,Central US,USCA
+R3423,United States,Eastern US,USCA
+R3424,United States,Western US,USCA
+R3425,United States,Central US,USCA
+R3426,United States,Southern US,USCA
+R3427,United States,Central US,USCA
+R3428,United States,Eastern US,USCA
+R3429,United States,Eastern US,USCA
+R3430,United States,Southern US,USCA
+R3431,United States,Western US,USCA
+R3432,United States,Western US,USCA
+R3433,United States,Southern US,USCA
+R3434,United States,Western US,USCA
+R3435,United States,Southern US,USCA
+R3436,United States,Eastern US,USCA
+R3437,United States,Eastern US,USCA
+R3438,United States,Western US,USCA
+R3439,United States,Central US,USCA
+R3440,United States,Western US,USCA
+R3441,United States,Southern US,USCA
+R3442,United States,Central US,USCA
+R3443,United States,Eastern US,USCA
+R3444,United States,Central US,USCA
+R3445,United States,Central US,USCA
+R3446,United States,Southern US,USCA
+R3447,United States,Southern US,USCA
+R3448,United States,Southern US,USCA
+R3449,United States,Western US,USCA
+R3450,United States,Western US,USCA
+R3451,United States,Central US,USCA
+R3452,United States,Southern US,USCA
+R3453,United States,Eastern US,USCA
+R3454,United States,Central US,USCA
+R3455,United States,Western US,USCA
+R3456,United States,Eastern US,USCA
+R3457,United States,Southern US,USCA
+R3458,United States,Eastern US,USCA
+R3459,United States,Central US,USCA
+R3460,United States,Eastern US,USCA
+R3461,United States,Western US,USCA
+R3462,United States,Southern US,USCA
+R3463,United States,Central US,USCA
+R3464,United States,Eastern US,USCA
+R3465,United States,Southern US,USCA
+R3466,United States,Western US,USCA
+R3467,United States,Central US,USCA
+R3468,United States,Central US,USCA
+R3469,United States,Western US,USCA
+R3470,United States,Southern US,USCA
+R3471,United States,Central US,USCA
+R3472,United States,Western US,USCA
+R3473,United States,Central US,USCA
+R3474,United States,Eastern US,USCA
+R3475,United States,Western US,USCA
+R3476,United States,Western US,USCA
+R3477,United States,Southern US,USCA
+R3478,United States,Western US,USCA
+R3479,United States,Central US,USCA
+R3480,United States,Central US,USCA
+R3481,United States,Southern US,USCA
+R3482,United States,Southern US,USCA
+R3483,United States,Central US,USCA
+R3484,United States,Southern US,USCA
+R3485,United States,Central US,USCA
+R3486,United States,Eastern US,USCA
+R3487,United States,Western US,USCA
+R3488,United States,Southern US,USCA
+R3489,United States,Western US,USCA
+R3490,United States,Western US,USCA
+R3491,United States,Western US,USCA
+R3492,United States,Eastern US,USCA
+R3493,United States,Central US,USCA
+R3494,United States,Western US,USCA
+R3495,United States,Central US,USCA
+R3496,United States,Southern US,USCA
+R3497,United States,Central US,USCA
+R3498,United States,Central US,USCA
+R3499,United States,Western US,USCA
+R3500,United States,Central US,USCA
+R3501,United States,Central US,USCA
+R3502,United States,Eastern US,USCA
+R3503,United States,Central US,USCA
+R3504,United States,Western US,USCA
+R3505,United States,Southern US,USCA
+R3506,United States,Central US,USCA
+R3507,United States,Central US,USCA
+R3508,United States,Southern US,USCA
+R3509,United States,Western US,USCA
+R3510,United States,Eastern US,USCA
+R3511,United States,Western US,USCA
+R3512,United States,Southern US,USCA
+R3513,United States,Southern US,USCA
+R3514,United States,Western US,USCA
+R3515,United States,Central US,USCA
+R3516,United States,Southern US,USCA
+R3517,United States,Eastern US,USCA
+R3518,United States,Central US,USCA
+R3519,United States,Eastern US,USCA
+R3520,United States,Eastern US,USCA
+R3521,United States,Central US,USCA
+R3522,United States,Central US,USCA
+R3523,United States,Southern US,USCA
+R3524,United States,Southern US,USCA
+R3525,United States,Central US,USCA
+R3526,United States,Eastern US,USCA
+R3527,United States,Southern US,USCA
+R3528,United States,Central US,USCA
+R3529,United States,Southern US,USCA
+R3530,United States,Southern US,USCA
+R3531,United States,Southern US,USCA
+R3532,United States,Eastern US,USCA
+R3533,United States,Western US,USCA
+R3534,United States,Southern US,USCA
+R3535,United States,Central US,USCA
+R3536,United States,Eastern US,USCA
+R3537,United States,Central US,USCA
+R3538,United States,Western US,USCA
+R3539,United States,Central US,USCA
+R3540,United States,Eastern US,USCA
+R3541,United States,Western US,USCA
+R3542,United States,Western US,USCA
+R3543,United States,Central US,USCA
+R3544,United States,Eastern US,USCA
+R3545,United States,Eastern US,USCA
+R3546,United States,Eastern US,USCA
+R3547,United States,Eastern US,USCA
+R3548,United States,Eastern US,USCA
+R3549,United States,Central US,USCA
+R3550,United States,Central US,USCA
+R3551,United States,Central US,USCA
+R3552,United States,Western US,USCA
+R3553,United States,Western US,USCA
+R3554,United States,Central US,USCA
+R3555,United States,Central US,USCA
+R3556,United States,Central US,USCA
+R3557,United States,Central US,USCA
+R3558,United States,Central US,USCA
+R3559,United States,Eastern US,USCA
+R3560,United States,Western US,USCA
+R3561,United States,Western US,USCA
+R3562,United States,Central US,USCA
+R3563,United States,Western US,USCA
+R3564,United States,Southern US,USCA
+R3565,United States,Western US,USCA
+R3566,United States,Western US,USCA
+R3567,United States,Western US,USCA
+R3568,United States,Southern US,USCA
+R3569,United States,Southern US,USCA
+R3570,United States,Western US,USCA
+R3571,United States,Eastern US,USCA
+R3572,United States,Western US,USCA
+R3573,United States,Southern US,USCA
+R3574,United States,Eastern US,USCA
+R3575,United States,Southern US,USCA
+R3576,United States,Southern US,USCA
+R3577,United States,Central US,USCA
+R3578,United States,Western US,USCA
+R3579,United States,Western US,USCA
+R3580,United States,Western US,USCA
+R3581,United States,Central US,USCA
+R3582,United States,Western US,USCA
+R3583,United States,Eastern US,USCA
+R3584,United States,Western US,USCA
+R3585,United States,Eastern US,USCA
+R3586,United States,Eastern US,USCA
+R3587,United States,Western US,USCA
+R3588,United States,Eastern US,USCA
+R3589,United States,Western US,USCA
+R3590,United States,Central US,USCA
+R3591,United States,Southern US,USCA
+R3592,United States,Southern US,USCA
+R3593,United States,Southern US,USCA
+R3594,United States,Central US,USCA
+R3595,United States,Southern US,USCA
+R3596,United States,Central US,USCA
+R3597,United States,Eastern US,USCA
+R3598,United States,Southern US,USCA
+R3599,United States,Eastern US,USCA
+R3600,United States,Central US,USCA
+R3601,United States,Western US,USCA
+R3602,United States,Central US,USCA
+R3603,United States,Eastern US,USCA
+R3604,United States,Western US,USCA
+R3605,United States,Western US,USCA
+R3606,United States,Western US,USCA
+R3607,United States,Western US,USCA
+R3608,United States,Eastern US,USCA
+R3609,United States,Eastern US,USCA
+R3610,United States,Western US,USCA
+R3611,United States,Eastern US,USCA
+R3612,United States,Southern US,USCA
+R3613,United States,Central US,USCA
+R3614,United States,Southern US,USCA
+R3615,United States,Southern US,USCA
+R3616,United States,Western US,USCA
+R3617,United States,Western US,USCA
+R3618,United States,Western US,USCA
+R3619,United States,Southern US,USCA
+R3620,United States,Central US,USCA
+R3621,United States,Western US,USCA
+R3622,United States,Western US,USCA
+R3623,United States,Central US,USCA
+R3624,United States,Central US,USCA
+R3625,United States,Southern US,USCA
+R3626,United States,Central US,USCA
+R3627,United States,Western US,USCA
+R3628,United States,Western US,USCA
+R3629,United States,Central US,USCA
+R3630,United States,Eastern US,USCA
+R3631,United States,Central US,USCA
+R3632,United States,Central US,USCA
+R3633,United States,Central US,USCA
+R3634,United States,Southern US,USCA
+R3635,United States,Southern US,USCA
+R3636,United States,Western US,USCA
+R3637,United States,Western US,USCA
+R3638,United States,Central US,USCA
+R3639,United States,Western US,USCA
+R3640,United States,Southern US,USCA
+R3641,United States,Western US,USCA
+R3642,United States,Central US,USCA
+R3643,United States,Central US,USCA
+R3644,United States,Western US,USCA
+R3645,United States,Central US,USCA
+R3646,United States,Eastern US,USCA
+R3647,United States,Central US,USCA
+R3648,United States,Southern US,USCA
+R3649,United States,Western US,USCA
+R3650,United States,Central US,USCA
+R3651,United States,Central US,USCA
+R3652,United States,Western US,USCA
+R3653,United States,Eastern US,USCA
+R3654,United States,Central US,USCA
+R3655,United States,Eastern US,USCA
+R3656,United States,Central US,USCA
+R3657,United States,Eastern US,USCA
+R3658,United States,Central US,USCA
+R3659,United States,Central US,USCA
+R3660,United States,Central US,USCA
+R3661,United States,Western US,USCA
+R3662,United States,Western US,USCA
+R3663,United States,Western US,USCA
+R3664,United States,Western US,USCA
+R3665,United States,Central US,USCA
+R3666,United States,Western US,USCA
+R3667,United States,Eastern US,USCA
+R3668,United States,Western US,USCA
+R3669,United States,Southern US,USCA
+R3670,United States,Central US,USCA
+R3671,United States,Southern US,USCA
+R3672,United States,Central US,USCA
+R3673,United States,Central US,USCA
+R3674,United States,Southern US,USCA
+R3675,United States,Central US,USCA
+R3676,United States,Eastern US,USCA
+R3677,United States,Eastern US,USCA
+R3678,United States,Southern US,USCA
+R3679,United States,Central US,USCA
+R3680,United States,Western US,USCA
+R3681,United States,Central US,USCA
+R3682,United States,Central US,USCA
+R3683,United States,Central US,USCA
+R3684,United States,Central US,USCA
+R3685,United States,Eastern US,USCA
+R3686,United States,Southern US,USCA
+R3687,United States,Western US,USCA
+R3688,United States,Southern US,USCA
+R3689,United States,Central US,USCA
+R3690,United States,Western US,USCA
+R3691,United States,Central US,USCA
+R3692,United States,Southern US,USCA
+R3693,United States,Eastern US,USCA
+R3694,United States,Central US,USCA
+R3695,United States,Western US,USCA
+R3696,United States,Western US,USCA
+R3697,United States,Western US,USCA
+R3698,United States,Central US,USCA
+R3699,United States,Southern US,USCA
+R3700,United States,Eastern US,USCA
+R3701,United States,Central US,USCA
+R3702,United States,Western US,USCA
+R3703,United States,Central US,USCA
+R3704,United States,Central US,USCA
+R3705,United States,Western US,USCA
+R3706,United States,Western US,USCA
+R3707,United States,Central US,USCA
+R3708,United States,Eastern US,USCA
+R3709,United States,Central US,USCA
+R3710,United States,Western US,USCA
+R3711,United States,Western US,USCA
+R3712,United States,Central US,USCA
+R3713,United States,Southern US,USCA
+R3714,United States,Central US,USCA
+R3715,United States,Western US,USCA
+R3716,United States,Eastern US,USCA
+R3717,United States,Eastern US,USCA
+R3718,United States,Western US,USCA
+R3719,United States,Central US,USCA
+R3720,United States,Western US,USCA
+R3721,United States,Central US,USCA
+R3722,United States,Central US,USCA
+R3723,United States,Western US,USCA
+R3724,United States,Eastern US,USCA
+R3725,United States,Central US,USCA
+R3726,United States,Central US,USCA
+R3727,United States,Central US,USCA
+R3728,United States,Western US,USCA
+R3729,United States,Central US,USCA
+R3730,United States,Western US,USCA
+R3731,United States,Central US,USCA
+R3732,United States,Eastern US,USCA
+R3733,United States,Central US,USCA
+R3734,United States,Central US,USCA
+R3735,United States,Southern US,USCA
+R3736,United States,Central US,USCA
+R3737,United States,Western US,USCA
+R3738,United States,Western US,USCA
+R3739,United States,Southern US,USCA
+R3740,United States,Central US,USCA
+R3741,United States,Southern US,USCA
+R3742,United States,Central US,USCA
+R3743,United States,Western US,USCA
+R3744,United States,Central US,USCA
+R3745,United States,Central US,USCA
+R3746,United States,Southern US,USCA
+R3747,United States,Southern US,USCA
+R3748,United States,Southern US,USCA
+R3749,United States,Central US,USCA
+R3750,United States,Eastern US,USCA
+R3751,United States,Western US,USCA
+R3752,United States,Southern US,USCA
+R3753,United States,Central US,USCA
+R3754,Uruguay,South America,LATAM
+R3755,Uruguay,South America,LATAM
+R3756,Uruguay,South America,LATAM
+R3757,Uruguay,South America,LATAM
+R3758,Uzbekistan,Central Asia,Asia Pacific
+R3759,Uzbekistan,Central Asia,Asia Pacific
+R3760,Uzbekistan,Central Asia,Asia Pacific
+R3761,Uzbekistan,Central Asia,Asia Pacific
+R3762,Uzbekistan,Central Asia,Asia Pacific
+R3763,Uzbekistan,Central Asia,Asia Pacific
+R3764,Venezuela,South America,LATAM
+R3765,Venezuela,South America,LATAM
+R3766,Venezuela,South America,LATAM
+R3767,Venezuela,South America,LATAM
+R3768,Venezuela,South America,LATAM
+R3769,Venezuela,South America,LATAM
+R3770,Venezuela,South America,LATAM
+R3771,Venezuela,South America,LATAM
+R3772,Venezuela,South America,LATAM
+R3773,Venezuela,South America,LATAM
+R3774,Venezuela,South America,LATAM
+R3775,Venezuela,South America,LATAM
+R3776,Venezuela,South America,LATAM
+R3777,Venezuela,South America,LATAM
+R3778,Venezuela,South America,LATAM
+R3779,Venezuela,South America,LATAM
+R3780,Venezuela,South America,LATAM
+R3781,Venezuela,South America,LATAM
+R3782,Venezuela,South America,LATAM
+R3783,Venezuela,South America,LATAM
+R3784,Venezuela,South America,LATAM
+R3785,Venezuela,South America,LATAM
+R3786,Venezuela,South America,LATAM
+R3787,Venezuela,South America,LATAM
+R3788,Venezuela,South America,LATAM
+R3789,Venezuela,South America,LATAM
+R3790,Venezuela,South America,LATAM
+R3791,Venezuela,South America,LATAM
+R3792,Venezuela,South America,LATAM
+R3793,Venezuela,South America,LATAM
+R3794,Venezuela,South America,LATAM
+R3795,Venezuela,South America,LATAM
+R3796,Venezuela,South America,LATAM
+R3797,Venezuela,South America,LATAM
+R3798,Venezuela,South America,LATAM
+R3799,Venezuela,South America,LATAM
+R3800,Venezuela,South America,LATAM
+R3801,Vietnam,Southeastern Asia,Asia Pacific
+R3802,Vietnam,Southeastern Asia,Asia Pacific
+R3803,Vietnam,Southeastern Asia,Asia Pacific
+R3804,Vietnam,Southeastern Asia,Asia Pacific
+R3805,Vietnam,Southeastern Asia,Asia Pacific
+R3806,Vietnam,Southeastern Asia,Asia Pacific
+R3807,Western Sahara,Western Africa,Africa
+R3808,Yemen,Western Asia,Asia Pacific
+R3809,Yemen,Western Asia,Asia Pacific
+R3810,Yemen,Western Asia,Asia Pacific
+R3811,Zambia,Eastern Africa,Africa
+R3812,Zambia,Eastern Africa,Africa
+R3813,Zambia,Eastern Africa,Africa
+R3814,Zambia,Eastern Africa,Africa
+R3815,Zambia,Eastern Africa,Africa
+R3816,Zambia,Eastern Africa,Africa
+R3817,Zambia,Eastern Africa,Africa
+R3818,Zambia,Eastern Africa,Africa
+R3819,Zambia,Eastern Africa,Africa
+R3820,Zambia,Eastern Africa,Africa
+R3821,Zambia,Eastern Africa,Africa
+R3822,Zimbabwe,Eastern Africa,Africa
+R3823,Zimbabwe,Eastern Africa,Africa
+R3824,Zimbabwe,Eastern Africa,Africa
+R3825,Zimbabwe,Eastern Africa,Africa
+R3826,Zimbabwe,Eastern Africa,Africa
+R3827,Zimbabwe,Eastern Africa,Africa
+R3828,Zimbabwe,Eastern Africa,Africa
